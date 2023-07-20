@@ -3,6 +3,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "*maminka*";
   "-ochranka-";
   "1v8na";
+  "7Nika";
   "ALX75";
   "ANDÍLEK2009";
   "AdriankaRůže";
@@ -21,9 +22,11 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Cinderellka";
   "Copinka";
   "DARTPUNK";
+  "DEMETER";
   "DaTa";
   "Daisynka";
   "Daller";
+  "Danulínka";
   "Deniska1601";
   "DžungaráčekChlupáček";
   "ELENSA";
@@ -45,6 +48,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "HonzaG";
   "Hrony47";
   "Héfaistos";
+  "Ivuška";
   "Jančulka";
   "Jarda2013";
   "Joana";
@@ -156,6 +160,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "panglaq";
   "pet_z_pětipes";
   "pipiši";
+  "red-xiii";
   "rex_96";
   "ronaldo88";
   "seel";
@@ -254,6 +259,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "ronaldo88"
     "smejky225"
+  }
+  "7Nika" -- {
+    "DEMETER"
+    "Danulínka"
+    "Ivuška"
+    "Mari1"
+    "Pralinka2"
+    "Týnulínka"
+    "ahojky009"
+    "red-xiii"
+    "tanečniceJiřka"
+    "vikinkaa"
+    "čičinka55"
+    "řidičJiří"
   }
   "ALX75" -- {
     "Ouřada"
@@ -604,6 +623,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "žirafa"
   }
+  "DEMETER" -- {
+    "7Nika"
+    "Danulínka"
+    "Ivuška"
+    "Mari1"
+    "Pralinka2"
+    "Týnulínka"
+    "ahojky009"
+    "red-xiii"
+    "tanečniceJiřka"
+    "vikinkaa"
+    "čičinka55"
+    "řidičJiří"
+  }
   "DaTa" -- {
     "Amulet"
     "Bertička1200"
@@ -632,6 +665,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Chestra"
     "Pralinka2"
     "daddyy"
+  }
+  "Danulínka" -- {
+    "7Nika"
+    "DEMETER"
+    "Ivuška"
+    "Mari1"
+    "Pralinka2"
+    "Týnulínka"
+    "ahojky009"
+    "red-xiii"
+    "tanečniceJiřka"
+    "vikinkaa"
+    "čičinka55"
+    "řidičJiří"
   }
   "Deniska1601" -- {
     "Faruk"
@@ -1027,6 +1074,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "pipiši"
     "tanečniceJiřka"
     "vikinka28"
+    "řidičJiří"
+  }
+  "Ivuška" -- {
+    "7Nika"
+    "DEMETER"
+    "Danulínka"
+    "Mari1"
+    "Pralinka2"
+    "Týnulínka"
+    "ahojky009"
+    "red-xiii"
+    "tanečniceJiřka"
+    "vikinkaa"
+    "čičinka55"
     "řidičJiří"
   }
   "Jančulka" -- {
@@ -1500,11 +1561,14 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Mari1" -- {
     "*maminka*"
     "-ochranka-"
+    "7Nika"
     "ANDÍLEK2009"
     "Assy"
     "CaMiL"
     "Copinka"
     "DARTPUNK"
+    "DEMETER"
+    "Danulínka"
     "Deniska1601"
     "DžungaráčekChlupáček"
     "Elibaba"
@@ -1516,6 +1580,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "HonzaG"
     "Hrony47"
     "Héfaistos"
+    "Ivuška"
     "Jančulka"
     "Komárek941"
     "KrálíčekSušenka"
@@ -1583,6 +1648,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "panglaq"
     "pet_z_pětipes"
     "pipiši"
+    "red-xiii"
     "rex_96"
     "smejky225"
     "sovička10"
@@ -2423,6 +2489,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "**Beruška**"
     "*maminka*"
     "-ochranka-"
+    "7Nika"
     "ALX75"
     "ANDÍLEK2009"
     "AdriankaRůže"
@@ -2440,8 +2507,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Cinderellka"
     "Copinka"
     "DARTPUNK"
+    "DEMETER"
     "DaTa"
     "Daller"
+    "Danulínka"
     "Deniska1601"
     "DžungaráčekChlupáček"
     "Elibaba"
@@ -2461,6 +2530,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "HonzaG"
     "Hrony47"
     "Héfaistos"
+    "Ivuška"
     "Jančulka"
     "Jarda2013"
     "Joana"
@@ -2567,6 +2637,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "panglaq"
     "pet_z_pětipes"
     "pipiši"
+    "red-xiii"
     "rex_96"
     "ronaldo88"
     "seel"
@@ -3124,9 +3195,13 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Týnulínka" -- {
     "*maminka*"
     "-ochranka-"
+    "7Nika"
     "DARTPUNK"
+    "DEMETER"
+    "Danulínka"
     "F.Angela"
     "Faruk"
+    "Ivuška"
     "Mari1"
     "NemrtváMrtvá"
     "Neville"
@@ -3139,10 +3214,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Vietcong"
     "WeGo"
     "Wednesday"
+    "ahojky009"
     "miškahrabalka"
     "pet_z_pětipes"
+    "red-xiii"
+    "tanečniceJiřka"
     "tut1"
     "vikinečka"
+    "vikinkaa"
+    "čičinka55"
     "řidičJiří"
     "žirafa"
   }
@@ -3472,13 +3552,18 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "ahojky009" -- {
+    "7Nika"
     "Copinka"
+    "DEMETER"
+    "Danulínka"
+    "Ivuška"
     "Mari1"
     "Májuška96"
     "Natrace"
     "Ouřada"
     "Pralinka2"
     "ThePumpa"
+    "Týnulínka"
     "Zdeny1"
     "batman-david"
     "kajik01"
@@ -3486,10 +3571,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "lékařský"
     "majdula2000"
     "on1"
+    "red-xiii"
     "rex_96"
     "tanečniceJiřka"
     "verbum"
     "vikinka28"
+    "vikinkaa"
+    "čičinka55"
     "řidičJiří"
     "–MM–"
   }
@@ -4475,6 +4563,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Žížala123"
     "–MM–"
   }
+  "red-xiii" -- {
+    "7Nika"
+    "DEMETER"
+    "Danulínka"
+    "Ivuška"
+    "Mari1"
+    "Pralinka2"
+    "Týnulínka"
+    "ahojky009"
+    "tanečniceJiřka"
+    "vikinkaa"
+    "čičinka55"
+    "řidičJiří"
+  }
   "rex_96" -- {
     "Copinka"
     "Mari1"
@@ -4630,10 +4732,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "tanečniceJiřka" -- {
+    "7Nika"
     "ANDÍLEK2009"
     "Assy"
     "CaMiL"
     "Copinka"
+    "DEMETER"
+    "Danulínka"
     "Deniska1601"
     "DžungaráčekChlupáček"
     "Elibaba"
@@ -4643,6 +4748,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "HonzaG"
     "Hrony47"
     "Héfaistos"
+    "Ivuška"
     "Jančulka"
     "Komárek941"
     "KrálíčekSušenka"
@@ -4674,6 +4780,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Tatyna"
     "ThePumpa"
     "Tobias7"
+    "Týnulínka"
     "VelkýBochník"
     "Viki_show"
     "Zdeny1"
@@ -4692,6 +4799,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "nehasil7"
     "on1"
     "pipiši"
+    "red-xiii"
     "rex_96"
     "smejky225"
     "vaiva"
@@ -4910,13 +5018,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "vikinkaa" -- {
+    "7Nika"
+    "DEMETER"
+    "Danulínka"
     "Deniska1601"
     "Faruk"
     "HonzaG"
+    "Ivuška"
     "Mari1"
     "MuDrc_"
     "Patruninka"
     "Pralinka2"
+    "Týnulínka"
+    "ahojky009"
+    "red-xiii"
     "tanečniceJiřka"
     "čičinka55"
     "řidičJiří"
@@ -5033,13 +5148,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "čičinka55" -- {
+    "7Nika"
+    "DEMETER"
+    "Danulínka"
     "Deniska1601"
     "Faruk"
     "HonzaG"
+    "Ivuška"
     "Mari1"
     "MuDrc_"
     "Patruninka"
     "Pralinka2"
+    "Týnulínka"
+    "ahojky009"
+    "red-xiii"
     "tanečniceJiřka"
     "vikinkaa"
     "řidičJiří"
@@ -5070,11 +5192,14 @@ graph "Alík na vlastní oči!" { concentrate=true
   "řidičJiří" -- {
     "*maminka*"
     "-ochranka-"
+    "7Nika"
     "ANDÍLEK2009"
     "Assy"
     "CaMiL"
     "Copinka"
     "DARTPUNK"
+    "DEMETER"
+    "Danulínka"
     "Deniska1601"
     "DžungaráčekChlupáček"
     "Elibaba"
@@ -5085,6 +5210,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "HonzaG"
     "Hrony47"
     "Héfaistos"
+    "Ivuška"
     "Jančulka"
     "Komárek941"
     "KrálíčekSušenka"
@@ -5146,6 +5272,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "on1"
     "pet_z_pětipes"
     "pipiši"
+    "red-xiii"
     "rex_96"
     "smejky225"
     "tanečniceJiřka"
