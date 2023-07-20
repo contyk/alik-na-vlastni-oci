@@ -12,6 +12,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Buffy-Bridget";
   "Bápa";
   "CaMiL";
+  "Cinderellka";
   "Copinka";
   "DaTa";
   "Daisynka";
@@ -34,12 +35,14 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Joana";
   "JojoLady";
   "JosefNeoral12";
+  "July";
   "JÁviÉr";
   "KoloJM83";
   "Komárek941";
   "KrálíčekSušenka";
   "KrálíčekZdeni";
   "KubíkVenom";
+  "Kysukysukysu";
   "Kábéčko";
   "LPSElka";
   "Lhářka";
@@ -342,6 +345,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "–MM–"
   }
+  "Cinderellka" -- {
+    "GEORGE4"
+    "Joana"
+    "July"
+    "Kysukysukysu"
+    "Permoň"
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
+  }
   "Copinka" -- {
     "1v8na"
     "Anež"
@@ -622,7 +635,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Bahsis"
     "Baryk"
     "Buffy-Bridget"
+    "Cinderellka"
     "Joana"
+    "July"
+    "Kysukysukysu"
     "Noodle"
     "Permoň"
     "Pralinka2"
@@ -774,7 +790,10 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Joana" -- {
     "Bahsis"
     "Baryk"
+    "Cinderellka"
     "GEORGE4"
+    "July"
+    "Kysukysukysu"
     "Noodle"
     "Permoň"
     "Pralinka2"
@@ -797,6 +816,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_kebaba_"
     "majdula2000"
     "vikinka28"
+  }
+  "July" -- {
+    "Cinderellka"
+    "GEORGE4"
+    "Joana"
+    "Kysukysukysu"
+    "Permoň"
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
   }
   "JÁviÉr" -- {
     "FuFuF"
@@ -986,6 +1015,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "Žížala123"
     "–MM–"
+  }
+  "Kysukysukysu" -- {
+    "Cinderellka"
+    "GEORGE4"
+    "Joana"
+    "July"
+    "Permoň"
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
   }
   "Kábéčko" -- {
     "FuFuF"
@@ -1824,8 +1863,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Bahsis"
     "Baryk"
     "Buffy-Bridget"
+    "Cinderellka"
     "GEORGE4"
     "Joana"
+    "July"
+    "Kysukysukysu"
     "Noodle"
     "Pralinka2"
     "SÉPIE"
@@ -1845,6 +1887,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Buffy-Bridget"
     "Bápa"
     "CaMiL"
+    "Cinderellka"
     "Copinka"
     "DaTa"
     "DžungaráčekChlupáček"
@@ -1864,11 +1907,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Joana"
     "JojoLady"
     "JosefNeoral12"
+    "July"
     "JÁviÉr"
     "KoloJM83"
     "Komárek941"
     "KrálíčekSušenka"
     "KubíkVenom"
+    "Kysukysukysu"
     "Kábéčko"
     "LPSElka"
     "Lhářka"
@@ -3021,8 +3066,11 @@ graph "Alík na vlastní oči!" { concentrate=true
   "kamarádíček" -- {
     "Bahsis"
     "Baryk"
+    "Cinderellka"
     "GEORGE4"
     "Joana"
+    "July"
+    "Kysukysukysu"
     "Noodle"
     "Permoň"
     "Pralinka2"
@@ -3400,8 +3448,11 @@ graph "Alík na vlastní oči!" { concentrate=true
   "pamela" -- {
     "Bahsis"
     "Baryk"
+    "Cinderellka"
     "GEORGE4"
     "Joana"
+    "July"
+    "Kysukysukysu"
     "Noodle"
     "Permoň"
     "Pralinka2"
