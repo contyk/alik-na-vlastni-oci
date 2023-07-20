@@ -21,6 +21,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Bezva_holka";
   "Buffy-Bridget";
   "Bápa";
+  "Bílý-Pegas";
   "CaMiL";
   "Cat_Lady";
   "Chestra";
@@ -62,6 +63,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "JosefNeoral12";
   "July";
   "JÁviÉr";
+  "KEDAR";
   "Katka";
   "KoloJM83";
   "Komárek941";
@@ -84,6 +86,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Mateas";
   "Maty09";
   "MedvidekBonnie";
+  "Meville";
   "Miaow";
   "MikiRoth";
   "Miky23";
@@ -125,6 +128,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "SÉPIE";
   "THC-303Horn";
   "Tatyna";
+  "Teferi";
   "Terybelka";
   "ThePumpa";
   "Tobias7";
@@ -526,6 +530,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "ronaldo88"
   }
+  "Bílý-Pegas" -- {
+    "Cat_Lady"
+    "KEDAR"
+    "Meville"
+    "Pralinka2"
+    "Teferi"
+    "miškahrabalka"
+  }
   "CaMiL" -- {
     "Copinka"
     "Ema_P"
@@ -577,10 +589,13 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Cat_Lady" -- {
     "Alethea"
+    "Bílý-Pegas"
     "Danulínka"
     "Hanička68"
+    "KEDAR"
     "Maminka_Treyky"
     "Mari1"
+    "Meville"
     "Miky23"
     "Moništa"
     "Myšell"
@@ -591,6 +606,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Radkaa"
     "SHAKIRA007"
     "Sysie"
+    "Teferi"
     "Terybelka"
     "Zelgadis"
     "ahojky009"
@@ -1394,6 +1410,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "on1"
     "–MM–"
   }
+  "KEDAR" -- {
+    "Bílý-Pegas"
+    "Cat_Lady"
+    "Meville"
+    "Pralinka2"
+    "Teferi"
+    "miškahrabalka"
+  }
   "Katka" -- {
     "Angličanka5"
     "Angličanka6"
@@ -2075,6 +2099,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ČertElíša"
     "řidičJiří"
     "–MM–"
+  }
+  "Meville" -- {
+    "Bílý-Pegas"
+    "Cat_Lady"
+    "KEDAR"
+    "Pralinka2"
+    "Teferi"
+    "miškahrabalka"
   }
   "Miaow" -- {
     "Copinka"
@@ -2847,6 +2879,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Bezva_holka"
     "Buffy-Bridget"
     "Bápa"
+    "Bílý-Pegas"
     "CaMiL"
     "Cat_Lady"
     "Chestra"
@@ -2885,6 +2918,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "JosefNeoral12"
     "July"
     "JÁviÉr"
+    "KEDAR"
     "Katka"
     "KoloJM83"
     "Komárek941"
@@ -2905,6 +2939,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Marmeláda_Marci"
     "Mateas"
     "MedvidekBonnie"
+    "Meville"
     "Miaow"
     "MikiRoth"
     "Miky23"
@@ -2944,6 +2979,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "SÉPIE"
     "THC-303Horn"
     "Tatyna"
+    "Teferi"
     "Terybelka"
     "ThePumpa"
     "Tobias7"
@@ -3535,6 +3571,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "Žížala123"
     "–MM–"
+  }
+  "Teferi" -- {
+    "Bílý-Pegas"
+    "Cat_Lady"
+    "KEDAR"
+    "Meville"
+    "Pralinka2"
+    "miškahrabalka"
   }
   "Terybelka" -- {
     "Alethea"
@@ -4869,13 +4913,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "*maminka*"
     "-ochranka-"
     "Alethea"
+    "Bílý-Pegas"
     "Cat_Lady"
     "DARTPUNK"
     "Danulínka"
     "F.Angela"
     "Hanička68"
+    "KEDAR"
     "Maminka_Treyky"
     "Mari1"
+    "Meville"
     "Miky23"
     "Moništa"
     "Myšell"
@@ -4888,6 +4935,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "SHAKIRA007"
     "Sysie"
     "THC-303Horn"
+    "Teferi"
     "Terybelka"
     "Treyka"
     "Týnulínka"
