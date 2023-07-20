@@ -9,6 +9,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Bahsis";
   "Baryk";
   "Best-Rebel";
+  "Bezva_holka";
   "Buffy-Bridget";
   "Bápa";
   "CaMiL";
@@ -29,6 +30,8 @@ graph "Alík na vlastní oči!" { concentrate=true
   "GEORGE4";
   "Garfíldek12";
   "Gigisuška";
+  "HONZA2";
+  "Hermionka.Gr.";
   "Hrony47";
   "Héfaistos";
   "Jančulka";
@@ -48,6 +51,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Lhářka";
   "Lilu229";
   "Lívaneček";
+  "Lůcááá";
   "Mari1";
   "Marmeláda_Marci";
   "Mateas";
@@ -121,6 +125,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "pipiši";
   "rex_96";
   "ronaldo88";
+  "seel";
   "smejky225";
   "sovička10";
   "tanečniceJiřka";
@@ -278,6 +283,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_kebaba_"
     "majdula2000"
     "ronaldo88"
+  }
+  "Bezva_holka" -- {
+    "HONZA2"
+    "Hermionka.Gr."
+    "Lůcááá"
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
+    "seel"
   }
   "Buffy-Bridget" -- {
     "**Beruška**"
@@ -694,6 +708,24 @@ graph "Alík na vlastní oči!" { concentrate=true
     "smejky225"
     "vaiva"
     "–MM–"
+  }
+  "HONZA2" -- {
+    "Bezva_holka"
+    "Hermionka.Gr."
+    "Lůcááá"
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
+    "seel"
+  }
+  "Hermionka.Gr." -- {
+    "Bezva_holka"
+    "HONZA2"
+    "Lůcááá"
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
+    "seel"
   }
   "Hrony47" -- {
     "Copinka"
@@ -1129,6 +1161,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "smejky225"
     "vaiva"
     "–MM–"
+  }
+  "Lůcááá" -- {
+    "Bezva_holka"
+    "HONZA2"
+    "Hermionka.Gr."
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
+    "seel"
   }
   "Mari1" -- {
     "ANDÍLEK2009"
@@ -1904,6 +1945,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Bahsis"
     "Baryk"
     "Best-Rebel"
+    "Bezva_holka"
     "Buffy-Bridget"
     "Bápa"
     "CaMiL"
@@ -1921,6 +1963,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "GEORGE4"
     "Garfíldek12"
     "Gigisuška"
+    "HONZA2"
+    "Hermionka.Gr."
     "Hrony47"
     "Héfaistos"
     "Jančulka"
@@ -1939,6 +1983,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Lhářka"
     "Lilu229"
     "Lívaneček"
+    "Lůcááá"
     "Mari1"
     "Marmeláda_Marci"
     "Mateas"
@@ -2008,6 +2053,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "pipiši"
     "rex_96"
     "ronaldo88"
+    "seel"
     "smejky225"
     "sovička10"
     "tanečniceJiřka"
@@ -3088,17 +3134,22 @@ graph "Alík na vlastní oči!" { concentrate=true
   "kamarádíček" -- {
     "Bahsis"
     "Baryk"
+    "Bezva_holka"
     "Cinderellka"
     "GEORGE4"
+    "HONZA2"
+    "Hermionka.Gr."
     "Joana"
     "July"
     "Kysukysukysu"
+    "Lůcááá"
     "Noodle"
     "Permoň"
     "Piki"
     "Pralinka2"
     "lemro"
     "pamela"
+    "seel"
   }
   "klobáska" -- {
     "Copinka"
@@ -3482,17 +3533,22 @@ graph "Alík na vlastní oči!" { concentrate=true
   "pamela" -- {
     "Bahsis"
     "Baryk"
+    "Bezva_holka"
     "Cinderellka"
     "GEORGE4"
+    "HONZA2"
+    "Hermionka.Gr."
     "Joana"
     "July"
     "Kysukysukysu"
+    "Lůcááá"
     "Noodle"
     "Permoň"
     "Piki"
     "Pralinka2"
     "kamarádíček"
     "lemro"
+    "seel"
   }
   "panglaq" -- {
     "CaMiL"
@@ -3591,6 +3647,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "lékařský"
     "majdula2000"
     "smejky225"
+  }
+  "seel" -- {
+    "Bezva_holka"
+    "HONZA2"
+    "Hermionka.Gr."
+    "Lůcááá"
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
   }
   "smejky225" -- {
     "1v8na"
