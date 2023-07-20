@@ -31,6 +31,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "F.Angela";
   "FanUnikitty";
   "Faolis";
+  "Faruk";
   "Fillipino";
   "FuFuF";
   "GEORGE4";
@@ -82,6 +83,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Pavlikkamarad";
   "Penubra_Shade";
   "Permoň";
+  "Petrusinka";
   "Piki";
   "Pralinka2";
   "PrasátkoPeppa";
@@ -92,6 +94,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Rex999";
   "RohlikTV";
   "Rokio";
+  "SUPERMOUSE";
   "SVETLO";
   "SarkastickýHolub";
   "SÉPIE";
@@ -101,6 +104,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Tobias7";
   "Treyka";
   "Tučňák";
+  "Tytulinka";
   "Týnulínka";
   "VelkýBochník";
   "VeverkaČiperka123";
@@ -201,13 +205,17 @@ graph "Alík na vlastní oči!" { concentrate=true
     "*maminka*"
     "DARTPUNK"
     "F.Angela"
+    "Faruk"
     "Mari1"
     "NemrtváMrtvá"
     "Neville"
+    "Petrusinka"
     "Pralinka2"
     "Radkaa"
+    "SUPERMOUSE"
     "THC-303Horn"
     "Treyka"
+    "Tytulinka"
     "Týnulínka"
     "Vietcong"
     "WeGo"
@@ -752,6 +760,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "on1"
     "pipiši"
     "tanečniceJiřka"
+    "řidičJiří"
+  }
+  "Faruk" -- {
+    "-ochranka-"
+    "Mari1"
+    "Petrusinka"
+    "Pralinka2"
+    "SUPERMOUSE"
+    "Tytulinka"
+    "WeGo"
     "řidičJiří"
   }
   "Fillipino" -- {
@@ -1379,6 +1397,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "F.Angela"
     "FanUnikitty"
     "Faolis"
+    "Faruk"
     "Hrony47"
     "Héfaistos"
     "Jančulka"
@@ -1403,6 +1422,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Ouřada"
     "Pavlikkamarad"
     "Penubra_Shade"
+    "Petrusinka"
     "Pralinka2"
     "PrasátkoPeppa"
     "Pribináček1"
@@ -1410,12 +1430,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Radkaa"
     "Rex999"
     "RohlikTV"
+    "SUPERMOUSE"
     "SarkastickýHolub"
     "THC-303Horn"
     "Tatyna"
     "ThePumpa"
     "Tobias7"
     "Treyka"
+    "Tytulinka"
     "Týnulínka"
     "VelkýBochník"
     "Vietcong"
@@ -2230,6 +2252,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "kamarádíček"
     "pamela"
   }
+  "Petrusinka" -- {
+    "-ochranka-"
+    "Faruk"
+    "Mari1"
+    "Pralinka2"
+    "SUPERMOUSE"
+    "Tytulinka"
+    "WeGo"
+    "řidičJiří"
+  }
   "Piki" -- {
     "Cinderellka"
     "GEORGE4"
@@ -2268,6 +2300,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "F.Angela"
     "FanUnikitty"
     "Faolis"
+    "Faruk"
     "Fillipino"
     "FuFuF"
     "GEORGE4"
@@ -2317,6 +2350,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Pavlikkamarad"
     "Penubra_Shade"
     "Permoň"
+    "Petrusinka"
     "Piki"
     "PrasátkoPeppa"
     "Pribináček1"
@@ -2325,6 +2359,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Rapo"
     "Rex999"
     "RohlikTV"
+    "SUPERMOUSE"
     "SVETLO"
     "SarkastickýHolub"
     "SÉPIE"
@@ -2334,6 +2369,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Tobias7"
     "Treyka"
     "Tučňák"
+    "Tytulinka"
     "Týnulínka"
     "VelkýBochník"
     "VeverkaČiperka123"
@@ -2664,6 +2700,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ronaldo88"
     "smejky225"
   }
+  "SUPERMOUSE" -- {
+    "-ochranka-"
+    "Faruk"
+    "Mari1"
+    "Petrusinka"
+    "Pralinka2"
+    "Tytulinka"
+    "WeGo"
+    "řidičJiří"
+  }
   "SVETLO" -- {
     "Best-Rebel"
     "Bápa"
@@ -2919,6 +2965,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Pralinka2"
     "SÉPIE"
   }
+  "Tytulinka" -- {
+    "-ochranka-"
+    "Faruk"
+    "Mari1"
+    "Petrusinka"
+    "Pralinka2"
+    "SUPERMOUSE"
+    "WeGo"
+    "řidičJiří"
+  }
   "Týnulínka" -- {
     "*maminka*"
     "-ochranka-"
@@ -3096,13 +3152,17 @@ graph "Alík na vlastní oči!" { concentrate=true
     "-ochranka-"
     "DARTPUNK"
     "F.Angela"
+    "Faruk"
     "Mari1"
     "NemrtváMrtvá"
     "Neville"
+    "Petrusinka"
     "Pralinka2"
     "Radkaa"
+    "SUPERMOUSE"
     "THC-303Horn"
     "Treyka"
+    "Tytulinka"
     "Týnulínka"
     "Vietcong"
     "Wednesday"
@@ -4795,6 +4855,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Ema_P"
     "F.Angela"
     "Faolis"
+    "Faruk"
     "Hrony47"
     "Héfaistos"
     "Jančulka"
@@ -4820,17 +4881,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Ouřada"
     "Pavlikkamarad"
     "Penubra_Shade"
+    "Petrusinka"
     "Pralinka2"
     "PrasátkoPeppa"
     "Pribináček1"
     "Radkaa"
     "RohlikTV"
+    "SUPERMOUSE"
     "SarkastickýHolub"
     "THC-303Horn"
     "Tatyna"
     "ThePumpa"
     "Tobias7"
     "Treyka"
+    "Tytulinka"
     "Týnulínka"
     "VelkýBochník"
     "Vietcong"
