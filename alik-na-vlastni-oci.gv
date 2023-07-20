@@ -29,6 +29,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Hrony47";
   "Héfaistos";
   "Jančulka";
+  "Joana";
   "JojoLady";
   "JosefNeoral12";
   "JÁviÉr";
@@ -60,7 +61,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Parníček512";
   "Pavlikkamarad";
   "Penubra_Shade";
-  "Permoník";
+  "Permoň";
   "Pralinka2";
   "Pribináček1";
   "Radek_";
@@ -106,6 +107,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "n-o-n-a-m-e";
   "nehasil7";
   "on1";
+  "pamela";
   "panglaq";
   "pipiši";
   "rex_96";
@@ -128,7 +130,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "**Beruška**" -- {
     "Buffy-Bridget"
     "GEORGE4"
-    "Permoník"
+    "Permoň"
     "Pralinka2"
     "SÉPIE"
     "Tučňák"
@@ -251,7 +253,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Buffy-Bridget" -- {
     "**Beruška**"
     "GEORGE4"
-    "Permoník"
+    "Permoň"
     "Pralinka2"
     "SÉPIE"
     "Tučňák"
@@ -594,10 +596,12 @@ graph "Alík na vlastní oči!" { concentrate=true
   "GEORGE4" -- {
     "**Beruška**"
     "Buffy-Bridget"
-    "Permoník"
+    "Joana"
+    "Permoň"
     "Pralinka2"
     "SÉPIE"
     "Tučňák"
+    "pamela"
   }
   "Garfíldek12" -- {
     "Best-Rebel"
@@ -738,6 +742,12 @@ graph "Alík na vlastní oči!" { concentrate=true
     "verbum"
     "řidičJiří"
     "–MM–"
+  }
+  "Joana" -- {
+    "GEORGE4"
+    "Permoň"
+    "Pralinka2"
+    "pamela"
   }
   "JojoLady" -- {
     "Héfaistos"
@@ -1767,13 +1777,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "–MM–"
   }
-  "Permoník" -- {
+  "Permoň" -- {
     "**Beruška**"
     "Buffy-Bridget"
     "GEORGE4"
+    "Joana"
     "Pralinka2"
     "SÉPIE"
     "Tučňák"
+    "pamela"
   }
   "Pralinka2" -- {
     "**Beruška**"
@@ -1801,6 +1813,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Hrony47"
     "Héfaistos"
     "Jančulka"
+    "Joana"
     "JojoLady"
     "JosefNeoral12"
     "JÁviÉr"
@@ -1830,7 +1843,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Parníček512"
     "Pavlikkamarad"
     "Penubra_Shade"
-    "Permoník"
+    "Permoň"
     "Pribináček1"
     "Radek_"
     "Rapo"
@@ -1873,6 +1886,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "n-o-n-a-m-e"
     "nehasil7"
     "on1"
+    "pamela"
     "panglaq"
     "pipiši"
     "rex_96"
@@ -2161,7 +2175,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "**Beruška**"
     "Buffy-Bridget"
     "GEORGE4"
-    "Permoník"
+    "Permoň"
     "Pralinka2"
     "Tučňák"
   }
@@ -2297,7 +2311,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "**Beruška**"
     "Buffy-Bridget"
     "GEORGE4"
-    "Permoník"
+    "Permoň"
     "Pralinka2"
     "SÉPIE"
   }
@@ -3322,6 +3336,12 @@ graph "Alík na vlastní oči!" { concentrate=true
     "číča800"
     "řidičJiří"
     "–MM–"
+  }
+  "pamela" -- {
+    "GEORGE4"
+    "Joana"
+    "Permoň"
+    "Pralinka2"
   }
   "panglaq" -- {
     "CaMiL"
