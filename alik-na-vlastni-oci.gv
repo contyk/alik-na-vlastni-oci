@@ -9,7 +9,10 @@ graph "Alík na vlastní oči!" { concentrate=true
   "AdriankaRůže";
   "Amulet";
   "Anež";
+  "Angličanka5";
+  "Angličanka6";
   "Assy";
+  "BEE-EEB";
   "Bahsis";
   "Baryk";
   "Bertička1200";
@@ -56,6 +59,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "JosefNeoral12";
   "July";
   "JÁviÉr";
+  "Katka";
   "KoloJM83";
   "Komárek941";
   "KrálovnaAmidala";
@@ -70,6 +74,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Lilu229";
   "Lívaneček";
   "Lůcááá";
+  "M-tina";
   "Mari1";
   "Marmeláda_Marci";
   "Mateas";
@@ -115,6 +120,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Treyka";
   "Tučňák";
   "Týnulínka";
+  "UnUomoBenedetto";
   "VelkýBochník";
   "VeverkaČiperka123";
   "Vietcong";
@@ -168,6 +174,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "sovička10";
   "tanečniceJiřka";
   "tut1";
+  "ukulalumba";
   "vaiva";
   "verbum";
   "vikca09";
@@ -354,6 +361,24 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ronaldo88"
     "smejky225"
   }
+  "Angličanka5" -- {
+    "Angličanka6"
+    "BEE-EEB"
+    "Katka"
+    "M-tina"
+    "Pralinka2"
+    "UnUomoBenedetto"
+    "ukulalumba"
+  }
+  "Angličanka6" -- {
+    "Angličanka5"
+    "BEE-EEB"
+    "Katka"
+    "M-tina"
+    "Pralinka2"
+    "UnUomoBenedetto"
+    "ukulalumba"
+  }
   "Assy" -- {
     "Copinka"
     "Faolis"
@@ -370,6 +395,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "pipiši"
     "tanečniceJiřka"
     "řidičJiří"
+  }
+  "BEE-EEB" -- {
+    "Angličanka5"
+    "Angličanka6"
+    "Katka"
+    "M-tina"
+    "Pralinka2"
+    "UnUomoBenedetto"
+    "ukulalumba"
   }
   "Bahsis" -- {
     "Baryk"
@@ -1241,6 +1275,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "on1"
     "–MM–"
   }
+  "Katka" -- {
+    "Angličanka5"
+    "Angličanka6"
+    "BEE-EEB"
+    "M-tina"
+    "Pralinka2"
+    "UnUomoBenedetto"
+    "ukulalumba"
+  }
   "KoloJM83" -- {
     "1v8na"
     "Anež"
@@ -1557,6 +1600,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "kamarádíček"
     "pamela"
     "seel"
+  }
+  "M-tina" -- {
+    "Angličanka5"
+    "Angličanka6"
+    "BEE-EEB"
+    "Katka"
+    "Pralinka2"
+    "UnUomoBenedetto"
+    "ukulalumba"
   }
   "Mari1" -- {
     "*maminka*"
@@ -2494,7 +2546,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ANDÍLEK2009"
     "AdriankaRůže"
     "Amulet"
+    "Angličanka5"
+    "Angličanka6"
     "Assy"
+    "BEE-EEB"
     "Bahsis"
     "Baryk"
     "Bertička1200"
@@ -2538,6 +2593,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "JosefNeoral12"
     "July"
     "JÁviÉr"
+    "Katka"
     "KoloJM83"
     "Komárek941"
     "KrálovnaAmidala"
@@ -2551,6 +2607,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Lilu229"
     "Lívaneček"
     "Lůcááá"
+    "M-tina"
     "Mari1"
     "Marmeláda_Marci"
     "Mateas"
@@ -2593,6 +2650,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Treyka"
     "Tučňák"
     "Týnulínka"
+    "UnUomoBenedetto"
     "VelkýBochník"
     "VeverkaČiperka123"
     "Vietcong"
@@ -2645,6 +2703,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "sovička10"
     "tanečniceJiřka"
     "tut1"
+    "ukulalumba"
     "vaiva"
     "verbum"
     "vikca09"
@@ -3225,6 +3284,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "čičinka55"
     "řidičJiří"
     "žirafa"
+  }
+  "UnUomoBenedetto" -- {
+    "Angličanka5"
+    "Angličanka6"
+    "BEE-EEB"
+    "Katka"
+    "M-tina"
+    "Pralinka2"
+    "ukulalumba"
   }
   "VelkýBochník" -- {
     "CaMiL"
@@ -4835,6 +4903,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "vikinečka"
     "řidičJiří"
     "žirafa"
+  }
+  "ukulalumba" -- {
+    "Angličanka5"
+    "Angličanka6"
+    "BEE-EEB"
+    "Katka"
+    "M-tina"
+    "Pralinka2"
+    "UnUomoBenedetto"
   }
   "vaiva" -- {
     "CaMiL"
