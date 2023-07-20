@@ -10,6 +10,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Alethea";
   "Amulet";
   "Anež";
+  "Anežak";
   "Angličanka5";
   "Angličanka6";
   "Assy";
@@ -156,6 +157,8 @@ graph "Alík na vlastní oči!" { concentrate=true
   "_kebaba_";
   "adamekdimitrov";
   "ahojky009";
+  "aksile11";
+  "aleistera";
   "alenaton";
   "alinka";
   "anna-8";
@@ -426,6 +429,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "ronaldo88"
     "smejky225"
+  }
+  "Anežak" -- {
+    "Neville"
+    "Pralinka2"
+    "Teferi"
+    "aksile11"
+    "aleistera"
+    "pes_z_pětipes"
   }
   "Angličanka5" -- {
     "Angličanka6"
@@ -2663,6 +2674,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "-ochranka-"
     "Alethea"
     "Amulet"
+    "Anežak"
     "Bertička1200"
     "Cat_Lady"
     "Chestra"
@@ -2687,6 +2699,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "SHAKIRA007"
     "Sysie"
     "THC-303Horn"
+    "Teferi"
     "Terybelka"
     "Treyka"
     "Týnulínka"
@@ -2696,6 +2709,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Zelgadis"
     "_Gina_"
     "ahojky009"
+    "aksile11"
+    "aleistera"
     "cheeta"
     "daddyy"
     "mayKatie"
@@ -2965,6 +2980,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "AdriankaRůže"
     "Alethea"
     "Amulet"
+    "Anežak"
     "Angličanka5"
     "Angličanka6"
     "Assy"
@@ -3104,6 +3120,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_kebaba_"
     "adamekdimitrov"
     "ahojky009"
+    "aksile11"
+    "aleistera"
     "alenaton"
     "alinka"
     "anna-8"
@@ -3719,12 +3737,17 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "Teferi" -- {
+    "Anežak"
     "Bílý-Pegas"
     "Cat_Lady"
     "KEDAR"
     "Meville"
+    "Neville"
     "Pralinka2"
+    "aksile11"
+    "aleistera"
     "miškahrabalka"
+    "pes_z_pětipes"
   }
   "Terybelka" -- {
     "Alethea"
@@ -4352,6 +4375,22 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "žirafa"
     "–MM–"
+  }
+  "aksile11" -- {
+    "Anežak"
+    "Neville"
+    "Pralinka2"
+    "Teferi"
+    "aleistera"
+    "pes_z_pětipes"
+  }
+  "aleistera" -- {
+    "Anežak"
+    "Neville"
+    "Pralinka2"
+    "Teferi"
+    "aksile11"
+    "pes_z_pětipes"
   }
   "alenaton" -- {
     "CaMiL"
@@ -5351,6 +5390,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "*maminka*"
     "-ochranka-"
     "Alethea"
+    "Anežak"
     "Cat_Lady"
     "DARTPUNK"
     "Danulínka"
@@ -5370,6 +5410,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "SHAKIRA007"
     "Sysie"
     "THC-303Horn"
+    "Teferi"
     "Terybelka"
     "Treyka"
     "Týnulínka"
@@ -5378,6 +5419,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Wednesday"
     "Zelgadis"
     "ahojky009"
+    "aksile11"
+    "aleistera"
     "miškahrabalka"
     "red-xiii"
     "scania4"
