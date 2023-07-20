@@ -48,6 +48,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Kysukysukysu";
   "Kábéčko";
   "LPSElka";
+  "La-di-da";
   "Lhářka";
   "Lilu229";
   "Lívaneček";
@@ -712,6 +713,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "HONZA2" -- {
     "Bezva_holka"
     "Hermionka.Gr."
+    "La-di-da"
     "Lůcááá"
     "Pralinka2"
     "kamarádíček"
@@ -1103,6 +1105,12 @@ graph "Alík na vlastní oči!" { concentrate=true
     "vikca09"
     "řidičJiří"
     "–MM–"
+  }
+  "La-di-da" -- {
+    "HONZA2"
+    "Pralinka2"
+    "pamela"
+    "seel"
   }
   "Lhářka" -- {
     "DaTa"
@@ -1980,6 +1988,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Kysukysukysu"
     "Kábéčko"
     "LPSElka"
+    "La-di-da"
     "Lhářka"
     "Lilu229"
     "Lívaneček"
@@ -3541,6 +3550,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Joana"
     "July"
     "Kysukysukysu"
+    "La-di-da"
     "Lůcááá"
     "Noodle"
     "Permoň"
@@ -3652,6 +3662,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Bezva_holka"
     "HONZA2"
     "Hermionka.Gr."
+    "La-di-da"
     "Lůcááá"
     "Pralinka2"
     "kamarádíček"
