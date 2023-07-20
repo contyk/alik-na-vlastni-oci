@@ -68,6 +68,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Pavlikkamarad";
   "Penubra_Shade";
   "Permoň";
+  "Piki";
   "Pralinka2";
   "Pribináček1";
   "Radek_";
@@ -107,6 +108,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "kajik01";
   "kamarádíček";
   "klobáska";
+  "lemro";
   "lékařský";
   "majacos";
   "majdula2000";
@@ -351,8 +353,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "July"
     "Kysukysukysu"
     "Permoň"
+    "Piki"
     "Pralinka2"
     "kamarádíček"
+    "lemro"
     "pamela"
   }
   "Copinka" -- {
@@ -641,10 +645,12 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Kysukysukysu"
     "Noodle"
     "Permoň"
+    "Piki"
     "Pralinka2"
     "SÉPIE"
     "Tučňák"
     "kamarádíček"
+    "lemro"
     "pamela"
   }
   "Garfíldek12" -- {
@@ -796,8 +802,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Kysukysukysu"
     "Noodle"
     "Permoň"
+    "Piki"
     "Pralinka2"
     "kamarádíček"
+    "lemro"
     "pamela"
   }
   "JojoLady" -- {
@@ -823,8 +831,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Joana"
     "Kysukysukysu"
     "Permoň"
+    "Piki"
     "Pralinka2"
     "kamarádíček"
+    "lemro"
     "pamela"
   }
   "JÁviÉr" -- {
@@ -1875,6 +1885,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "kamarádíček"
     "pamela"
   }
+  "Piki" -- {
+    "Cinderellka"
+    "GEORGE4"
+    "Joana"
+    "July"
+    "Pralinka2"
+    "kamarádíček"
+    "lemro"
+    "pamela"
+  }
   "Pralinka2" -- {
     "**Beruška**"
     "ALX75"
@@ -1938,6 +1958,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Pavlikkamarad"
     "Penubra_Shade"
     "Permoň"
+    "Piki"
     "Pribináček1"
     "Radek_"
     "Rapo"
@@ -1974,6 +1995,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "kajik01"
     "kamarádíček"
     "klobáska"
+    "lemro"
     "lékařský"
     "majacos"
     "majdula2000"
@@ -3073,7 +3095,9 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Kysukysukysu"
     "Noodle"
     "Permoň"
+    "Piki"
     "Pralinka2"
+    "lemro"
     "pamela"
   }
   "klobáska" -- {
@@ -3097,6 +3121,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "vikinka28"
     "řidičJiří"
     "–MM–"
+  }
+  "lemro" -- {
+    "Cinderellka"
+    "GEORGE4"
+    "Joana"
+    "July"
+    "Piki"
+    "Pralinka2"
+    "kamarádíček"
+    "pamela"
   }
   "lékařský" -- {
     "1v8na"
@@ -3455,8 +3489,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Kysukysukysu"
     "Noodle"
     "Permoň"
+    "Piki"
     "Pralinka2"
     "kamarádíček"
+    "lemro"
   }
   "panglaq" -- {
     "CaMiL"
