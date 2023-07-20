@@ -1,4 +1,5 @@
 graph "Alík na vlastní oči!" { concentrate=true
+  "**Beruška**";
   "1v8na";
   "ALX75";
   "ANDÍLEK2009";
@@ -6,6 +7,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Anež";
   "Assy";
   "Best-Rebel";
+  "Buffy-Bridget";
   "Bápa";
   "CaMiL";
   "Copinka";
@@ -21,6 +23,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Faolis";
   "Fillipino";
   "FuFuF";
+  "GEORGE4";
   "Garfíldek12";
   "Gigisuška";
   "Hrony47";
@@ -57,6 +60,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Parníček512";
   "Pavlikkamarad";
   "Penubra_Shade";
+  "Permoník";
   "Pralinka2";
   "Pribináček1";
   "Radek_";
@@ -66,9 +70,11 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Rokio";
   "SVETLO";
   "SarkastickýHolub";
+  "SÉPIE";
   "Tatyna";
   "ThePumpa";
   "Tobias7";
+  "Tučňák";
   "VelkýBochník";
   "VeverkaČiperka123";
   "VikiKlára";
@@ -119,6 +125,14 @@ graph "Alík na vlastní oči!" { concentrate=true
   "řidičJiří";
   "Žížala123";
   "–MM–";
+  "**Beruška**" -- {
+    "Buffy-Bridget"
+    "GEORGE4"
+    "Permoník"
+    "Pralinka2"
+    "SÉPIE"
+    "Tučňák"
+  }
   "1v8na" -- {
     "Anež"
     "Copinka"
@@ -233,6 +247,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_kebaba_"
     "majdula2000"
     "ronaldo88"
+  }
+  "Buffy-Bridget" -- {
+    "**Beruška**"
+    "GEORGE4"
+    "Permoník"
+    "Pralinka2"
+    "SÉPIE"
+    "Tučňák"
   }
   "Bápa" -- {
     "Best-Rebel"
@@ -568,6 +590,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "on1"
     "–MM–"
+  }
+  "GEORGE4" -- {
+    "**Beruška**"
+    "Buffy-Bridget"
+    "Permoník"
+    "Pralinka2"
+    "SÉPIE"
+    "Tučňák"
   }
   "Garfíldek12" -- {
     "Best-Rebel"
@@ -1737,12 +1767,22 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "–MM–"
   }
+  "Permoník" -- {
+    "**Beruška**"
+    "Buffy-Bridget"
+    "GEORGE4"
+    "Pralinka2"
+    "SÉPIE"
+    "Tučňák"
+  }
   "Pralinka2" -- {
+    "**Beruška**"
     "ALX75"
     "ANDÍLEK2009"
     "AdriankaRůže"
     "Assy"
     "Best-Rebel"
+    "Buffy-Bridget"
     "Bápa"
     "CaMiL"
     "Copinka"
@@ -1755,6 +1795,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Faolis"
     "Fillipino"
     "FuFuF"
+    "GEORGE4"
     "Garfíldek12"
     "Gigisuška"
     "Hrony47"
@@ -1789,6 +1830,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Parníček512"
     "Pavlikkamarad"
     "Penubra_Shade"
+    "Permoník"
     "Pribináček1"
     "Radek_"
     "Rapo"
@@ -1796,9 +1838,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "RohlikTV"
     "SVETLO"
     "SarkastickýHolub"
+    "SÉPIE"
     "Tatyna"
     "ThePumpa"
     "Tobias7"
+    "Tučňák"
     "VelkýBochník"
     "VeverkaČiperka123"
     "VikiKlára"
@@ -2113,6 +2157,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "–MM–"
   }
+  "SÉPIE" -- {
+    "**Beruška**"
+    "Buffy-Bridget"
+    "GEORGE4"
+    "Permoník"
+    "Pralinka2"
+    "Tučňák"
+  }
   "Tatyna" -- {
     "ANDÍLEK2009"
     "Assy"
@@ -2240,6 +2292,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "verbum"
     "řidičJiří"
     "–MM–"
+  }
+  "Tučňák" -- {
+    "**Beruška**"
+    "Buffy-Bridget"
+    "GEORGE4"
+    "Permoník"
+    "Pralinka2"
+    "SÉPIE"
   }
   "VelkýBochník" -- {
     "CaMiL"
