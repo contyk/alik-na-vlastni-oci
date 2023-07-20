@@ -13,10 +13,12 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Buffy-Bridget";
   "Bápa";
   "CaMiL";
+  "Chestra";
   "Cinderellka";
   "Copinka";
   "DaTa";
   "Daisynka";
+  "Daller";
   "DžungaráčekChlupáček";
   "ELENSA";
   "EMÍNEK";
@@ -112,6 +114,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "come_on_bby";
   "comoara";
   "crashinthedark";
+  "daddyy";
   "gabcahu1";
   "kajik01";
   "kamarádíček";
@@ -371,6 +374,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "–MM–"
   }
+  "Chestra" -- {
+    "Daller"
+    "Pralinka2"
+    "daddyy"
+  }
   "Cinderellka" -- {
     "GEORGE4"
     "Joana"
@@ -473,6 +481,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "bank"
     "lékařský"
     "majdula2000"
+  }
+  "Daller" -- {
+    "Chestra"
+    "Pralinka2"
+    "daddyy"
   }
   "DžungaráčekChlupáček" -- {
     "Copinka"
@@ -2072,9 +2085,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Buffy-Bridget"
     "Bápa"
     "CaMiL"
+    "Chestra"
     "Cinderellka"
     "Copinka"
     "DaTa"
+    "Daller"
     "DžungaráčekChlupáček"
     "Elibaba"
     "Ema_P"
@@ -2163,6 +2178,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "come_on_bby"
     "comoara"
     "crashinthedark"
+    "daddyy"
     "gabcahu1"
     "kajik01"
     "kamarádíček"
@@ -3259,6 +3275,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "verbum"
     "řidičJiří"
     "–MM–"
+  }
+  "daddyy" -- {
+    "Chestra"
+    "Daller"
+    "Pralinka2"
   }
   "gabcahu1" -- {
     "Best-Rebel"
