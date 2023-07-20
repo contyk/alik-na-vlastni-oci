@@ -110,6 +110,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "come_on_bby";
   "comoara";
   "crashinthedark";
+  "gabcahu1";
   "kajik01";
   "kamarádíček";
   "klobáska";
@@ -276,12 +277,14 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Best-Rebel" -- {
     "Bápa"
     "Garfíldek12"
+    "JosefNeoral12"
     "Mateas"
     "Pralinka2"
     "SVETLO"
     "ThePumpa"
     "_Priserka_xD"
     "_kebaba_"
+    "gabcahu1"
     "majdula2000"
     "ronaldo88"
   }
@@ -305,12 +308,14 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Bápa" -- {
     "Best-Rebel"
     "Garfíldek12"
+    "JosefNeoral12"
     "Mateas"
     "Pralinka2"
     "SVETLO"
     "ThePumpa"
     "_Priserka_xD"
     "_kebaba_"
+    "gabcahu1"
     "majdula2000"
     "ronaldo88"
   }
@@ -671,12 +676,14 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Garfíldek12" -- {
     "Best-Rebel"
     "Bápa"
+    "JosefNeoral12"
     "Mateas"
     "Pralinka2"
     "SVETLO"
     "ThePumpa"
     "_Priserka_xD"
     "_kebaba_"
+    "gabcahu1"
     "majdula2000"
     "ronaldo88"
   }
@@ -852,11 +859,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "vikinka28"
   }
   "JosefNeoral12" -- {
+    "Best-Rebel"
+    "Bápa"
+    "Garfíldek12"
+    "Mateas"
     "MrTheBest"
     "Parníček512"
     "Pralinka2"
+    "SVETLO"
+    "ThePumpa"
+    "_Priserka_xD"
     "_kebaba_"
+    "gabcahu1"
     "majdula2000"
+    "ronaldo88"
     "vikinka28"
   }
   "July" -- {
@@ -1300,6 +1316,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Gigisuška"
     "Hrony47"
     "Jančulka"
+    "JosefNeoral12"
     "JÁviÉr"
     "KrálíčekSušenka"
     "KubíkVenom"
@@ -1331,6 +1348,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "bublina2"
     "citronelinka"
     "come_on_bby"
+    "gabcahu1"
     "kajik01"
     "lékařský"
     "majdula2000"
@@ -2046,6 +2064,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "come_on_bby"
     "comoara"
     "crashinthedark"
+    "gabcahu1"
     "kajik01"
     "kamarádíček"
     "klobáska"
@@ -2292,11 +2311,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Best-Rebel"
     "Bápa"
     "Garfíldek12"
+    "JosefNeoral12"
     "Mateas"
     "Pralinka2"
     "ThePumpa"
     "_Priserka_xD"
     "_kebaba_"
+    "gabcahu1"
     "majdula2000"
     "ronaldo88"
   }
@@ -2399,6 +2420,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Elibaba"
     "Garfíldek12"
     "Hrony47"
+    "JosefNeoral12"
     "KubíkVenom"
     "Mari1"
     "Mateas"
@@ -2420,6 +2442,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "batman-david"
     "bublina2"
     "citronelinka"
+    "gabcahu1"
     "kajik01"
     "klobáska"
     "lékařský"
@@ -2689,11 +2712,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Best-Rebel"
     "Bápa"
     "Garfíldek12"
+    "JosefNeoral12"
     "Mateas"
     "Pralinka2"
     "SVETLO"
     "ThePumpa"
     "_kebaba_"
+    "gabcahu1"
     "majdula2000"
     "ronaldo88"
   }
@@ -2709,6 +2734,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "SVETLO"
     "ThePumpa"
     "_Priserka_xD"
+    "gabcahu1"
     "majdula2000"
     "ronaldo88"
     "vikinka28"
@@ -3080,6 +3106,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "–MM–"
   }
+  "gabcahu1" -- {
+    "Best-Rebel"
+    "Bápa"
+    "Garfíldek12"
+    "JosefNeoral12"
+    "Mateas"
+    "Pralinka2"
+    "SVETLO"
+    "ThePumpa"
+    "_Priserka_xD"
+    "_kebaba_"
+    "majdula2000"
+    "ronaldo88"
+  }
   "kajik01" -- {
     "ANDÍLEK2009"
     "CaMiL"
@@ -3377,6 +3417,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "come_on_bby"
     "comoara"
     "crashinthedark"
+    "gabcahu1"
     "kajik01"
     "klobáska"
     "lékařský"
@@ -3638,6 +3679,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ELENSA"
     "EMÍNEK"
     "Garfíldek12"
+    "JosefNeoral12"
     "KoloJM83"
     "KrálíčekZdeni"
     "Mateas"
@@ -3654,6 +3696,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Viki_show"
     "_Priserka_xD"
     "_kebaba_"
+    "gabcahu1"
     "lékařský"
     "majdula2000"
     "smejky225"
