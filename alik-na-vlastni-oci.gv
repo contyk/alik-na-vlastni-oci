@@ -6,10 +6,12 @@ graph "Alík na vlastní oči!" { concentrate=true
   "ALX75";
   "ANDÍLEK2009";
   "AdriankaRůže";
+  "Amulet";
   "Anež";
   "Assy";
   "Bahsis";
   "Baryk";
+  "Bertička1200";
   "Best-Rebel";
   "Bezva_holka";
   "Buffy-Bridget";
@@ -50,6 +52,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "JÁviÉr";
   "KoloJM83";
   "Komárek941";
+  "KrálovnaAmidala";
   "KrálíčekSušenka";
   "KrálíčekZdeni";
   "KubíkVenom";
@@ -127,6 +130,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "batman-david";
   "bublina2";
   "centrobin";
+  "cheeta";
   "citronelinka";
   "come_on_bby";
   "comoara";
@@ -140,6 +144,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "lékařský";
   "majacos";
   "majdula2000";
+  "mayKatie";
   "miškahrabalka";
   "mlej";
   "n-o-n-a-m-e";
@@ -293,6 +298,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "číča800"
     "–MM–"
   }
+  "Amulet" -- {
+    "Bertička1200"
+    "Chestra"
+    "DaTa"
+    "Eso_Rimmer"
+    "KrálovnaAmidala"
+    "Lhářka"
+    "Neville"
+    "Pralinka2"
+    "_Gina_"
+    "cheeta"
+    "daddyy"
+    "mayKatie"
+  }
   "Anež" -- {
     "1v8na"
     "Copinka"
@@ -349,6 +368,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Pralinka2"
     "kamarádíček"
     "pamela"
+  }
+  "Bertička1200" -- {
+    "Amulet"
+    "Chestra"
+    "DaTa"
+    "Eso_Rimmer"
+    "KrálovnaAmidala"
+    "Lhářka"
+    "Neville"
+    "Pralinka2"
+    "_Gina_"
+    "cheeta"
+    "daddyy"
+    "mayKatie"
   }
   "Best-Rebel" -- {
     "Bápa"
@@ -445,9 +478,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "Chestra" -- {
+    "Amulet"
+    "Bertička1200"
+    "DaTa"
     "Daller"
+    "Eso_Rimmer"
+    "KrálovnaAmidala"
+    "Lhářka"
+    "Neville"
     "Pralinka2"
+    "_Gina_"
+    "cheeta"
     "daddyy"
+    "mayKatie"
   }
   "Cinderellka" -- {
     "GEORGE4"
@@ -559,10 +602,18 @@ graph "Alík na vlastní oči!" { concentrate=true
     "žirafa"
   }
   "DaTa" -- {
+    "Amulet"
+    "Bertička1200"
+    "Chestra"
     "Eso_Rimmer"
+    "KrálovnaAmidala"
     "Lhářka"
+    "Neville"
     "Pralinka2"
     "_Gina_"
+    "cheeta"
+    "daddyy"
+    "mayKatie"
   }
   "Daisynka" -- {
     "KrálíčekSušenka"
@@ -697,10 +748,18 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "Eso_Rimmer" -- {
+    "Amulet"
+    "Bertička1200"
+    "Chestra"
     "DaTa"
+    "KrálovnaAmidala"
     "Lhářka"
+    "Neville"
     "Pralinka2"
     "_Gina_"
+    "cheeta"
+    "daddyy"
+    "mayKatie"
   }
   "F.Angela" -- {
     "*maminka*"
@@ -1148,6 +1207,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Žížala123"
     "–MM–"
   }
+  "KrálovnaAmidala" -- {
+    "Amulet"
+    "Bertička1200"
+    "Chestra"
+    "DaTa"
+    "Eso_Rimmer"
+    "Lhářka"
+    "Neville"
+    "Pralinka2"
+    "_Gina_"
+    "cheeta"
+    "daddyy"
+    "mayKatie"
+  }
   "KrálíčekSušenka" -- {
     "CaMiL"
     "Copinka"
@@ -1316,10 +1389,18 @@ graph "Alík na vlastní oči!" { concentrate=true
     "seel"
   }
   "Lhářka" -- {
+    "Amulet"
+    "Bertička1200"
+    "Chestra"
     "DaTa"
     "Eso_Rimmer"
+    "KrálovnaAmidala"
+    "Neville"
     "Pralinka2"
     "_Gina_"
+    "cheeta"
+    "daddyy"
+    "mayKatie"
   }
   "Lilu229" -- {
     "ANDÍLEK2009"
@@ -2036,8 +2117,15 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Neville" -- {
     "*maminka*"
     "-ochranka-"
+    "Amulet"
+    "Bertička1200"
+    "Chestra"
     "DARTPUNK"
+    "DaTa"
+    "Eso_Rimmer"
     "F.Angela"
+    "KrálovnaAmidala"
+    "Lhářka"
     "Mari1"
     "NemrtváMrtvá"
     "Pralinka2"
@@ -2048,6 +2136,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Vietcong"
     "WeGo"
     "Wednesday"
+    "_Gina_"
+    "cheeta"
+    "daddyy"
+    "mayKatie"
     "miškahrabalka"
     "pet_z_pětipes"
     "tut1"
@@ -2279,9 +2371,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ALX75"
     "ANDÍLEK2009"
     "AdriankaRůže"
+    "Amulet"
     "Assy"
     "Bahsis"
     "Baryk"
+    "Bertička1200"
     "Best-Rebel"
     "Bezva_holka"
     "Buffy-Bridget"
@@ -2319,6 +2413,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "JÁviÉr"
     "KoloJM83"
     "Komárek941"
+    "KrálovnaAmidala"
     "KrálíčekSušenka"
     "KubíkVenom"
     "Kysukysukysu"
@@ -2391,6 +2486,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "batman-david"
     "bublina2"
     "centrobin"
+    "cheeta"
     "citronelinka"
     "come_on_bby"
     "comoara"
@@ -2404,6 +2500,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "lékařský"
     "majacos"
     "majdula2000"
+    "mayKatie"
     "miškahrabalka"
     "mlej"
     "n-o-n-a-m-e"
@@ -3261,10 +3358,18 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "_Gina_" -- {
+    "Amulet"
+    "Bertička1200"
+    "Chestra"
     "DaTa"
     "Eso_Rimmer"
+    "KrálovnaAmidala"
     "Lhářka"
+    "Neville"
     "Pralinka2"
+    "cheeta"
+    "daddyy"
+    "mayKatie"
   }
   "_Priserka_xD" -- {
     "Best-Rebel"
@@ -3547,6 +3652,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Žížala123"
     "–MM–"
   }
+  "cheeta" -- {
+    "Amulet"
+    "Bertička1200"
+    "Chestra"
+    "DaTa"
+    "Eso_Rimmer"
+    "KrálovnaAmidala"
+    "Lhářka"
+    "Neville"
+    "Pralinka2"
+    "_Gina_"
+    "daddyy"
+    "mayKatie"
+  }
   "citronelinka" -- {
     "Copinka"
     "Elibaba"
@@ -3677,9 +3796,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "daddyy" -- {
+    "Amulet"
+    "Bertička1200"
     "Chestra"
+    "DaTa"
     "Daller"
+    "Eso_Rimmer"
+    "KrálovnaAmidala"
+    "Lhářka"
+    "Neville"
     "Pralinka2"
+    "_Gina_"
+    "cheeta"
+    "mayKatie"
   }
   "gabcahu1" -- {
     "Best-Rebel"
@@ -4028,6 +4157,20 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "Žížala123"
     "–MM–"
+  }
+  "mayKatie" -- {
+    "Amulet"
+    "Bertička1200"
+    "Chestra"
+    "DaTa"
+    "Eso_Rimmer"
+    "KrálovnaAmidala"
+    "Lhářka"
+    "Neville"
+    "Pralinka2"
+    "_Gina_"
+    "cheeta"
+    "daddyy"
   }
   "miškahrabalka" -- {
     "*maminka*"
