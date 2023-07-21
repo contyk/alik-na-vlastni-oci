@@ -17,6 +17,22 @@ potkali. Neoficiální srazy a jiná osobní setkání fungují na stejném
 principu. Soubory se řídí jednoduchou avšak neustálenou jmennou
 konvencí.
 
+Pokud možno a známo, uživatelská jména jsou sjednocena pod jedno
+nejnovější či nejvíce obecně známé.  Totéž se vztahuje na všemožné
+varianty téhož, například různé velikosti písmen a ozdobných znaků
+kolem.  Totéž platí, pokud uživatel aktivně používá více účtů: stále je
+to jedna skutečná osoba.
+
+## Jak na to
+
+Soubory v adresáři `data` reprezentují jednotlivé srazy.  Přidání nového
+srazu obnáší vytvoření nového souboru a uvedení všech účastníků.  Pokud
+chceme zanést jednotlivá setkání dvou lidí, je třeba vytvořit soubor pro
+každé z nich.
+
+Výstupní data, jak datový DOT soubor tak SVG vizualizaci, můžeme
+vytvořit prostým voláním `make`.
+
 ## Licence
 
 Zdrojem dat jsou veřejně dostupně informace o Alíkových srazech a data
