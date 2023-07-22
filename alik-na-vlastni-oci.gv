@@ -10,6 +10,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Alethea";
   "Alfaromeo33";
   "Amulet";
+  "Anemone";
   "Anež";
   "Anežak";
   "Angličanka5";
@@ -38,6 +39,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Danulínka";
   "Deidara-sempai";
   "Deniska1601";
+  "Dudra";
   "DžungaráčekChlupáček";
   "ELENSA";
   "EMÍNEK";
@@ -93,6 +95,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Marmeláda_Marci";
   "Mateas";
   "Maty09";
+  "May";
   "MedvidekBonnie";
   "Meville";
   "Miaow";
@@ -182,6 +185,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "citronelinka";
   "come_on_bby";
   "comoara";
+  "contyk";
   "crashinthedark";
   "daddyy";
   "gabcahu1";
@@ -444,6 +448,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "cheeta"
     "daddyy"
     "mayKatie"
+  }
+  "Anemone" -- {
+    "Dudra"
+    "May"
+    "Miaow"
+    "Pralinka2"
+    "contyk"
   }
   "Anež" -- {
     "1v8na"
@@ -932,6 +943,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "vikinkaa"
     "čičinka55"
     "řidičJiří"
+  }
+  "Dudra" -- {
+    "Anemone"
+    "May"
+    "Miaow"
+    "Pralinka2"
+    "contyk"
   }
   "DžungaráčekChlupáček" -- {
     "Copinka"
@@ -2306,6 +2324,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ronaldo88"
     "smejky225"
   }
+  "May" -- {
+    "Anemone"
+    "Dudra"
+    "Miaow"
+    "Pralinka2"
+    "contyk"
+  }
   "MedvidekBonnie" -- {
     "1v8na"
     "Anež"
@@ -2393,13 +2418,17 @@ graph "Alík na vlastní oči!" { concentrate=true
     "miškahrabalka"
   }
   "Miaow" -- {
+    "Anemone"
     "Copinka"
+    "Dudra"
     "DžungaráčekChlupáček"
     "Mari1"
+    "May"
     "MinaHoshi"
     "Pavlikkamarad"
     "Pralinka2"
     "ThePumpa"
+    "contyk"
     "majdula2000"
     "on1"
     "tanečniceJiřka"
@@ -3257,6 +3286,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Alethea"
     "Alfaromeo33"
     "Amulet"
+    "Anemone"
     "Anežak"
     "Angličanka5"
     "Angličanka6"
@@ -3283,6 +3313,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Danulínka"
     "Deidara-sempai"
     "Deniska1601"
+    "Dudra"
     "DžungaráčekChlupáček"
     "Elibaba"
     "Ema_P"
@@ -3334,6 +3365,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Mari1"
     "Marmeláda_Marci"
     "Mateas"
+    "May"
     "MedvidekBonnie"
     "Meville"
     "Miaow"
@@ -3420,6 +3452,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "citronelinka"
     "come_on_bby"
     "comoara"
+    "contyk"
     "crashinthedark"
     "daddyy"
     "gabcahu1"
@@ -5248,6 +5281,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "panglaq"
     "smejky225"
     "–MM–"
+  }
+  "contyk" -- {
+    "Anemone"
+    "Dudra"
+    "May"
+    "Miaow"
+    "Pralinka2"
   }
   "crashinthedark" -- {
     "CaMiL"
