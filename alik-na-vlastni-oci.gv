@@ -1,6 +1,7 @@
 graph "Alík na vlastní oči!" { concentrate=true
   "**Beruška**";
   "*maminka*";
+  "-PIRAT-";
   "-ochranka-";
   "1v8na";
   "7Nika";
@@ -276,6 +277,18 @@ graph "Alík na vlastní oči!" { concentrate=true
     "vikinečka"
     "řidičJiří"
     "žirafa"
+  }
+  "-PIRAT-" -- {
+    "Lukynekl"
+    "Mari1"
+    "Mojko"
+    "Neville"
+    "Pralinka2"
+    "RychlíkDan"
+    "SOJKA"
+    "Tom-maska"
+    "buba"
+    "kubajzik"
   }
   "-ochranka-" -- {
     "*maminka*"
@@ -2083,6 +2096,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "Lukynekl" -- {
+    "-PIRAT-"
     "993"
     "Alfaromeo33"
     "Anemone"
@@ -2234,6 +2248,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Mari1" -- {
     "*maminka*"
+    "-PIRAT-"
     "-ochranka-"
     "7Nika"
     "993"
@@ -2770,6 +2785,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "Mojko" -- {
+    "-PIRAT-"
     "ANDÍLEK2009"
     "Alfaromeo33"
     "Bambusinka"
@@ -3135,6 +3151,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Neville" -- {
     "*maminka*"
+    "-PIRAT-"
     "-ochranka-"
     "993"
     "Alethea"
@@ -3495,6 +3512,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Pralinka2" -- {
     "**Beruška**"
     "*maminka*"
+    "-PIRAT-"
     "-ochranka-"
     "7Nika"
     "993"
@@ -4102,6 +4120,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "smejky225"
   }
   "RychlíkDan" -- {
+    "-PIRAT-"
     "-ochranka-"
     "993"
     "Alfaromeo33"
@@ -4180,6 +4199,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "žirafa"
   }
   "SOJKA" -- {
+    "-PIRAT-"
     "993"
     "Anemone"
     "BáraM"
@@ -4209,6 +4229,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "kajik01"
     "karl-franklin"
     "koník777"
+    "kubajzik"
     "miškahrabalka"
     "nehasil7"
     "red-xiii"
@@ -4580,6 +4601,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "Tom-maska" -- {
+    "-PIRAT-"
     "993"
     "Alfaromeo33"
     "Anemone"
@@ -5381,6 +5403,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "buba" -- {
+    "-PIRAT-"
     "Flétnička"
     "Honzík"
     "Kung-fu"
@@ -5817,6 +5840,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Šmucler"
   }
   "kubajzik" -- {
+    "-PIRAT-"
     "Honzík"
     "Kung-fu"
     "Lukynekl"
@@ -5827,6 +5851,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Pralinka2"
     "Ptáček0505"
     "RychlíkDan"
+    "SOJKA"
     "Sokolík2"
     "Tom-maska"
     "Vendýsek12345"
