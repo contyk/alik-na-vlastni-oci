@@ -10,6 +10,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "ANDÍLEK2009";
   "AdriankaRůže";
   "Alethea";
+  "Alexej";
   "Alfaromeo33";
   "Amulet";
   "Anemone";
@@ -498,6 +499,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "žirafa"
   }
+  "Alexej" -- {
+    "Anemone"
+    "Danny15"
+    "Miaow"
+    "Pralinka2"
+    "ScArW"
+    "ahojky009"
+    "daddyy"
+    "kajik01"
+  }
   "Alfaromeo33" -- {
     "Deidara-sempai"
     "KEDAR"
@@ -535,6 +546,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Anemone" -- {
     "-PIRAT-"
     "993"
+    "Alexej"
     "Aristoteles"
     "BáraM"
     "Danny15"
@@ -561,6 +573,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Víla-Vivien"
     "ahojky009"
     "contyk"
+    "daddyy"
     "kajik01"
     "karl-franklin"
     "miškahrabalka"
@@ -1057,6 +1070,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Danny15" -- {
     "993"
+    "Alexej"
     "Anemone"
     "BáraM"
     "Flétnička"
@@ -1066,6 +1080,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Maminka_Treyky"
     "Mari1"
     "Memfis"
+    "Miaow"
     "Neville"
     "Pralinka2"
     "RychlíkDan"
@@ -1073,6 +1088,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ScArW"
     "Tom-maska"
     "ahojky009"
+    "daddyy"
     "kajik01"
     "karl-franklin"
     "miškahrabalka"
@@ -2847,8 +2863,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "miškahrabalka"
   }
   "Miaow" -- {
+    "Alexej"
     "Anemone"
     "Copinka"
+    "Danny15"
     "Dudra"
     "DžungaráčekChlupáček"
     "Mari1"
@@ -2856,8 +2874,12 @@ graph "Alík na vlastní oči!" { concentrate=true
     "MinaHoshi"
     "Pavlikkamarad"
     "Pralinka2"
+    "ScArW"
     "ThePumpa"
+    "ahojky009"
     "contyk"
+    "daddyy"
+    "kajik01"
     "majdula2000"
     "on1"
     "tanečniceJiřka"
@@ -3767,6 +3789,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ANDÍLEK2009"
     "AdriankaRůže"
     "Alethea"
+    "Alexej"
     "Alfaromeo33"
     "Amulet"
     "Anemone"
@@ -4594,6 +4617,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "ScArW" -- {
     "-PIRAT-"
     "993"
+    "Alexej"
     "Anemone"
     "Aristoteles"
     "BáraM"
@@ -4608,6 +4632,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Maminka_Treyky"
     "Mari1"
     "Memfis"
+    "Miaow"
     "Mojko"
     "MuDrc_"
     "Neville"
@@ -4621,6 +4646,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Víla-Vivien"
     "ahojky009"
     "buba"
+    "daddyy"
     "kajik01"
     "karl-franklin"
     "kubajzik"
@@ -5501,6 +5527,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "7Nika"
     "993"
     "Alethea"
+    "Alexej"
     "Alfaromeo33"
     "Anemone"
     "Bambusinka"
@@ -5523,6 +5550,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Maminka_Treyky"
     "Mari1"
     "Memfis"
+    "Miaow"
     "Miky23"
     "Mojko"
     "Moništa"
@@ -5557,6 +5585,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "anna-8"
     "batman-david"
     "buba"
+    "daddyy"
     "kajik01"
     "karl-franklin"
     "klobáska"
@@ -6030,18 +6059,25 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "daddyy" -- {
+    "Alexej"
     "Amulet"
+    "Anemone"
     "Bertička1200"
     "Chestra"
     "DaTa"
     "Daller"
+    "Danny15"
     "Eso_Rimmer"
     "KrálovnaAmidala"
     "Lhářka"
+    "Miaow"
     "Neville"
     "Pralinka2"
+    "ScArW"
     "_Gina_"
+    "ahojky009"
     "cheeta"
+    "kajik01"
     "mayKatie"
   }
   "gabcahu1" -- {
@@ -6062,6 +6098,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "-PIRAT-"
     "993"
     "ANDÍLEK2009"
+    "Alexej"
     "Anemone"
     "Aristoteles"
     "BáraM"
@@ -6088,6 +6125,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Mateas"
     "MedvidekBonnie"
     "Memfis"
+    "Miaow"
     "MikiRoth"
     "MinaHoshi"
     "Mojko"
@@ -6124,6 +6162,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "citronelinka"
     "come_on_bby"
     "crashinthedark"
+    "daddyy"
     "karl-franklin"
     "klobáska"
     "lékařský"
