@@ -18,6 +18,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Anežak";
   "Angličanka5";
   "Angličanka6";
+  "AntiDisco";
   "Aristoteles";
   "Assy";
   "BEE-EEB";
@@ -34,6 +35,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "CaMiL";
   "Cat_Lady";
   "Chestra";
+  "CiThRuSsS";
   "Cinderellka";
   "Copinka";
   "DARTPUNK";
@@ -61,6 +63,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Flétnička";
   "FuFuF";
   "GEORGE4";
+  "GORAM";
   "Garfíldek12";
   "Gigisuška";
   "HONZA2";
@@ -97,6 +100,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "La-di-da";
   "Lajka01";
   "Lhářka";
+  "LilianaKamusaki";
   "Lilu229";
   "Lukynekl";
   "Lívaneček";
@@ -206,11 +210,13 @@ graph "Alík na vlastní oči!" { concentrate=true
   "crashinthedark";
   "daddyy";
   "gabcahu1";
+  "hermitek";
   "kajik01";
   "kamarádíček";
   "karl-franklin";
   "klobáska";
   "koník777";
+  "krejdom";
   "kubajzik";
   "lemro";
   "levíček14";
@@ -251,6 +257,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "xX_Miva_Xx";
   "zirafka";
   "zombak21";
+  "zrezivela-plechovka";
   "ČertElíša";
   "ČervenkaAla";
   "čičinka55";
@@ -636,6 +643,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "UnUomoBenedetto"
     "ukulalumba"
   }
+  "AntiDisco" -- {
+    "CiThRuSsS"
+    "Dudra"
+    "GORAM"
+    "LilianaKamusaki"
+    "May"
+    "Pralinka2"
+    "hermitek"
+    "krejdom"
+    "nehasil7"
+    "ronaldo88"
+    "zrezivela-plechovka"
+  }
   "Aristoteles" -- {
     "-PIRAT-"
     "Anemone"
@@ -916,6 +936,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "daddyy"
     "mayKatie"
   }
+  "CiThRuSsS" -- {
+    "AntiDisco"
+    "Dudra"
+    "GORAM"
+    "LilianaKamusaki"
+    "May"
+    "Pralinka2"
+    "hermitek"
+    "krejdom"
+    "nehasil7"
+    "ronaldo88"
+    "zrezivela-plechovka"
+  }
   "Cinderellka" -- {
     "GEORGE4"
     "Joana"
@@ -1173,10 +1206,19 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Dudra" -- {
     "Anemone"
+    "AntiDisco"
+    "CiThRuSsS"
+    "GORAM"
+    "LilianaKamusaki"
     "May"
     "Miaow"
     "Pralinka2"
     "contyk"
+    "hermitek"
+    "krejdom"
+    "nehasil7"
+    "ronaldo88"
+    "zrezivela-plechovka"
   }
   "DžungaráčekChlupáček" -- {
     "Copinka"
@@ -1473,6 +1515,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "kamarádíček"
     "lemro"
     "pamela"
+  }
+  "GORAM" -- {
+    "AntiDisco"
+    "CiThRuSsS"
+    "Dudra"
+    "LilianaKamusaki"
+    "May"
+    "Pralinka2"
+    "hermitek"
+    "krejdom"
+    "nehasil7"
+    "ronaldo88"
+    "zrezivela-plechovka"
   }
   "Garfíldek12" -- {
     "Best-Rebel"
@@ -2278,6 +2333,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "daddyy"
     "mayKatie"
   }
+  "LilianaKamusaki" -- {
+    "AntiDisco"
+    "CiThRuSsS"
+    "Dudra"
+    "GORAM"
+    "May"
+    "Pralinka2"
+    "hermitek"
+    "krejdom"
+    "nehasil7"
+    "ronaldo88"
+    "zrezivela-plechovka"
+  }
   "Lilu229" -- {
     "ANDÍLEK2009"
     "Komárek941"
@@ -2746,10 +2814,19 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "May" -- {
     "Anemone"
+    "AntiDisco"
+    "CiThRuSsS"
     "Dudra"
+    "GORAM"
+    "LilianaKamusaki"
     "Miaow"
     "Pralinka2"
     "contyk"
+    "hermitek"
+    "krejdom"
+    "nehasil7"
+    "ronaldo88"
+    "zrezivela-plechovka"
   }
   "MedvidekBonnie" -- {
     "1v8na"
@@ -3796,6 +3873,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Anežak"
     "Angličanka5"
     "Angličanka6"
+    "AntiDisco"
     "Aristoteles"
     "Assy"
     "BEE-EEB"
@@ -3812,6 +3890,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "CaMiL"
     "Cat_Lady"
     "Chestra"
+    "CiThRuSsS"
     "Cinderellka"
     "Copinka"
     "DARTPUNK"
@@ -3836,6 +3915,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Flétnička"
     "FuFuF"
     "GEORGE4"
+    "GORAM"
     "Garfíldek12"
     "Gigisuška"
     "HONZA2"
@@ -3871,6 +3951,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "La-di-da"
     "Lajka01"
     "Lhářka"
+    "LilianaKamusaki"
     "Lilu229"
     "Lukynekl"
     "Lívaneček"
@@ -3976,11 +4057,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "crashinthedark"
     "daddyy"
     "gabcahu1"
+    "hermitek"
     "kajik01"
     "kamarádíček"
     "karl-franklin"
     "klobáska"
     "koník777"
+    "krejdom"
     "kubajzik"
     "lemro"
     "levíček14"
@@ -4021,6 +4104,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "xX_Miva_Xx"
     "zirafka"
     "zombak21"
+    "zrezivela-plechovka"
     "ČertElíša"
     "ČervenkaAla"
     "čičinka55"
@@ -6094,6 +6178,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "ronaldo88"
   }
+  "hermitek" -- {
+    "AntiDisco"
+    "CiThRuSsS"
+    "Dudra"
+    "GORAM"
+    "LilianaKamusaki"
+    "May"
+    "Pralinka2"
+    "krejdom"
+    "nehasil7"
+    "ronaldo88"
+    "zrezivela-plechovka"
+  }
   "kajik01" -- {
     "-PIRAT-"
     "993"
@@ -6300,6 +6397,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "tanečniceJiřka"
     "řidičJiří"
     "Šmucler"
+  }
+  "krejdom" -- {
+    "AntiDisco"
+    "CiThRuSsS"
+    "Dudra"
+    "GORAM"
+    "LilianaKamusaki"
+    "May"
+    "Pralinka2"
+    "hermitek"
+    "nehasil7"
+    "ronaldo88"
+    "zrezivela-plechovka"
   }
   "kubajzik" -- {
     "-PIRAT-"
@@ -6733,11 +6843,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ANDÍLEK2009"
     "Anemone"
     "Anežak"
+    "AntiDisco"
     "Aristoteles"
     "BáraM"
+    "CiThRuSsS"
     "Danny15"
     "DollDeny"
+    "Dudra"
     "Flétnička"
+    "GORAM"
     "Honza"
     "Honzík"
     "KEDAR"
@@ -6746,11 +6860,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Komárek941"
     "Kung-fu"
     "LPSElka"
+    "LilianaKamusaki"
     "Lilu229"
     "Lukynekl"
     "Maminka_Treyky"
     "Mari1"
     "Mateas"
+    "May"
     "Memfis"
     "MinaHoshi"
     "Mojko"
@@ -6774,20 +6890,24 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ahojky009"
     "anna-8"
     "buba"
+    "hermitek"
     "kajik01"
     "karl-franklin"
     "koník777"
+    "krejdom"
     "kubajzik"
     "levíček14"
     "majdula2000"
     "miškahrabalka"
     "red-xiii"
+    "ronaldo88"
     "smejky225"
     "tanečniceJiřka"
     "verbum"
     "vikca09"
     "xX_Miva_Xx"
     "zombak21"
+    "zrezivela-plechovka"
     "řidičJiří"
     "Šmucler"
     "–MM–"
@@ -7102,17 +7222,23 @@ graph "Alík na vlastní oči!" { concentrate=true
   "ronaldo88" -- {
     "1v8na"
     "Anež"
+    "AntiDisco"
     "Best-Rebel"
     "Bápa"
+    "CiThRuSsS"
     "Copinka"
+    "Dudra"
     "ELENSA"
     "EMÍNEK"
+    "GORAM"
     "Garfíldek12"
     "JosefNeoral12"
     "KoloJM83"
     "KrálíčekZdeni"
+    "LilianaKamusaki"
     "Mateas"
     "Maty09"
+    "May"
     "MedvidekBonnie"
     "MrTheBest"
     "Parníček512"
@@ -7126,9 +7252,13 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_Priserka_xD"
     "_kebaba_"
     "gabcahu1"
+    "hermitek"
+    "krejdom"
     "lékařský"
     "majdula2000"
+    "nehasil7"
     "smejky225"
+    "zrezivela-plechovka"
   }
   "scania4" -- {
     "Alethea"
@@ -7816,6 +7946,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "tanečniceJiřka"
     "verbum"
     "řidičJiří"
+  }
+  "zrezivela-plechovka" -- {
+    "AntiDisco"
+    "CiThRuSsS"
+    "Dudra"
+    "GORAM"
+    "LilianaKamusaki"
+    "May"
+    "Pralinka2"
+    "hermitek"
+    "krejdom"
+    "nehasil7"
+    "ronaldo88"
   }
   "ČertElíša" -- {
     "Copinka"
