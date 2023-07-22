@@ -21,6 +21,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Angličanka6";
   "AntiDisco";
   "Aristoteles";
+  "Arkngthander";
   "Assy";
   "BEE-EEB";
   "Bahsis";
@@ -137,6 +138,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "MyškaNiky";
   "Májuška96";
   "Nandyn";
+  "Napalmdeath";
   "Natrace";
   "Nehasil7";
   "NemrtváMrtvá";
@@ -152,6 +154,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Permoň";
   "Petr";
   "Piki";
+  "Prackal";
   "Pralinka2";
   "PrasátkoPeppa";
   "Pribináček1";
@@ -163,6 +166,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Radkaa";
   "Rapo";
   "Rex999";
+  "Riftwalker";
   "RohlikTV";
   "Rokio";
   "RychlíkDan";
@@ -777,6 +781,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "verbum"
     "zombak21"
     "řidičJiří"
+  }
+  "Arkngthander" -- {
+    "LilianaKamusaki"
+    "Mateas"
+    "Napalmdeath"
+    "Prackal"
+    "Pralinka2"
+    "Riftwalker"
+    "krejdom"
+    "nehasil7"
   }
   "Assy" -- {
     "Copinka"
@@ -2657,11 +2671,16 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "LilianaKamusaki" -- {
     "AntiDisco"
+    "Arkngthander"
     "CiThRuSsS"
     "Dudra"
     "GORAM"
+    "Mateas"
     "May"
+    "Napalmdeath"
+    "Prackal"
     "Pralinka2"
+    "Riftwalker"
     "hermitek"
     "krejdom"
     "nehasil7"
@@ -3135,6 +3154,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Mateas" -- {
     "Anežak"
+    "Arkngthander"
     "Best-Rebel"
     "Bápa"
     "CaMiL"
@@ -3152,6 +3172,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "KrálíčekSušenka"
     "KubíkVenom"
     "Kábéčko"
+    "LilianaKamusaki"
     "Lívaneček"
     "Mari1"
     "Marmeláda_Marci"
@@ -3160,14 +3181,17 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Morell"
     "MrTheBest"
     "MyškaNiky"
+    "Napalmdeath"
     "Ouřada"
     "Patriček2001"
     "Penubra_Shade"
+    "Prackal"
     "Pralinka2"
     "PrasátkoPeppa"
     "Radek_"
     "Rapo"
     "Rex999"
+    "Riftwalker"
     "SVETLO"
     "SarkastickýHolub"
     "Sodovkář"
@@ -3189,6 +3213,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "gabcahu1"
     "kajik01"
     "karl-franklin"
+    "krejdom"
     "lékařský"
     "majdula2000"
     "n-o-n-a-m-e"
@@ -3930,6 +3955,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "verbum"
     "řidičJiří"
   }
+  "Napalmdeath" -- {
+    "Arkngthander"
+    "LilianaKamusaki"
+    "Mateas"
+    "Prackal"
+    "Pralinka2"
+    "Riftwalker"
+    "krejdom"
+    "nehasil7"
+  }
   "Natrace" -- {
     "Copinka"
     "Mari1"
@@ -4420,6 +4455,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "lemro"
     "pamela"
   }
+  "Prackal" -- {
+    "Arkngthander"
+    "LilianaKamusaki"
+    "Mateas"
+    "Napalmdeath"
+    "Pralinka2"
+    "Riftwalker"
+    "krejdom"
+    "nehasil7"
+  }
   "Pralinka2" -- {
     "**Beruška**"
     "*maminka*"
@@ -4441,6 +4486,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Angličanka6"
     "AntiDisco"
     "Aristoteles"
+    "Arkngthander"
     "Assy"
     "BEE-EEB"
     "Bahsis"
@@ -4552,6 +4598,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "MyškaNiky"
     "Májuška96"
     "Nandyn"
+    "Napalmdeath"
     "Natrace"
     "Nehasil7"
     "NemrtváMrtvá"
@@ -4567,6 +4614,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Permoň"
     "Petr"
     "Piki"
+    "Prackal"
     "PrasátkoPeppa"
     "Pribináček1"
     "PrincessTana"
@@ -4577,6 +4625,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Radkaa"
     "Rapo"
     "Rex999"
+    "Riftwalker"
     "RohlikTV"
     "RychlíkDan"
     "SHAKIRA007"
@@ -5061,6 +5110,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "smejky225"
     "vaiva"
     "–MM–"
+  }
+  "Riftwalker" -- {
+    "Arkngthander"
+    "LilianaKamusaki"
+    "Mateas"
+    "Napalmdeath"
+    "Prackal"
+    "Pralinka2"
+    "krejdom"
+    "nehasil7"
   }
   "RohlikTV" -- {
     "CaMiL"
@@ -7205,12 +7264,17 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "krejdom" -- {
     "AntiDisco"
+    "Arkngthander"
     "CiThRuSsS"
     "Dudra"
     "GORAM"
     "LilianaKamusaki"
+    "Mateas"
     "May"
+    "Napalmdeath"
+    "Prackal"
     "Pralinka2"
+    "Riftwalker"
     "hermitek"
     "nehasil7"
     "ronaldo88"
@@ -7709,6 +7773,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Anežak"
     "AntiDisco"
     "Aristoteles"
+    "Arkngthander"
     "BáraM"
     "CiThRuSsS"
     "Danny15"
@@ -7740,13 +7805,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "MinaHoshi"
     "Mojko"
     "MuDrc_"
+    "Napalmdeath"
     "Neville"
     "Ouřada"
     "Peksik"
     "Petr"
+    "Prackal"
     "Pralinka2"
     "PrincessTana"
     "Ptáček0505"
+    "Riftwalker"
     "RychlíkDan"
     "SOJKA"
     "Sarah"
