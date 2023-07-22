@@ -143,6 +143,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Noodle";
   "Ouřada";
   "Parníček512";
+  "Patriček2001";
   "Patruninka";
   "Pavlikkamarad";
   "Penubra_Shade";
@@ -170,6 +171,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "SarkastickýHolub";
   "ScArW";
   "Snecek";
+  "Sodovkář";
   "Sokolík2";
   "Sysie";
   "SÉPIE";
@@ -674,14 +676,18 @@ graph "Alík na vlastní oči!" { concentrate=true
     "DollDeny"
     "Mateas"
     "Neville"
+    "Patriček2001"
     "Pralinka2"
+    "Sodovkář"
     "Teferi"
     "Vietcong"
     "aksile11"
     "aleistera"
+    "chameleon10"
     "karl-franklin"
     "nehasil7"
     "pes_z_pětipes"
+    "ronaldo88"
     "xX_Miva_Xx"
   }
   "Angličanka5" -- {
@@ -3021,6 +3027,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "MrTheBest"
     "MyškaNiky"
     "Ouřada"
+    "Patriček2001"
     "Penubra_Shade"
     "Pralinka2"
     "PrasátkoPeppa"
@@ -3029,6 +3036,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Rex999"
     "SVETLO"
     "SarkastickýHolub"
+    "Sodovkář"
     "Tatyna"
     "Teferi"
     "ThePumpa"
@@ -3041,6 +3049,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "asistent"
     "batman-david"
     "bublina2"
+    "chameleon10"
     "citronelinka"
     "come_on_bby"
     "gabcahu1"
@@ -4085,6 +4094,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "smejky225"
     "vikinka28"
   }
+  "Patriček2001" -- {
+    "Anežak"
+    "Mateas"
+    "Pralinka2"
+    "Sodovkář"
+    "Teferi"
+    "chameleon10"
+    "ronaldo88"
+  }
   "Patruninka" -- {
     "-ochranka-"
     "Alethea"
@@ -4369,6 +4387,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Noodle"
     "Ouřada"
     "Parníček512"
+    "Patriček2001"
     "Patruninka"
     "Pavlikkamarad"
     "Penubra_Shade"
@@ -4394,6 +4413,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "SarkastickýHolub"
     "ScArW"
     "Snecek"
+    "Sodovkář"
     "Sokolík2"
     "Sysie"
     "SÉPIE"
@@ -5191,6 +5211,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "verbum"
     "řidičJiří"
   }
+  "Sodovkář" -- {
+    "Anežak"
+    "Mateas"
+    "Patriček2001"
+    "Pralinka2"
+    "Teferi"
+    "chameleon10"
+    "ronaldo88"
+  }
   "Sokolík2" -- {
     "-PIRAT-"
     "-ochranka-"
@@ -5342,14 +5371,18 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Mateas"
     "Meville"
     "Neville"
+    "Patriček2001"
     "Pralinka2"
+    "Sodovkář"
     "Vietcong"
     "aksile11"
     "aleistera"
+    "chameleon10"
     "karl-franklin"
     "miškahrabalka"
     "nehasil7"
     "pes_z_pětipes"
+    "ronaldo88"
     "xX_Miva_Xx"
   }
   "Terezka" -- {
@@ -6459,6 +6492,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "chameleon10" -- {
     "1Sojka1"
     "Anemone"
+    "Anežak"
     "Aristoteles"
     "Denisa"
     "Jahoda123"
@@ -6468,13 +6502,17 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Klaarynkaa"
     "Malina123"
     "Mari1"
+    "Mateas"
     "Muňka"
     "Nandyn"
     "Nehasil7"
     "Neville"
+    "Patriček2001"
     "Pralinka2"
     "Pája"
     "Snecek"
+    "Sodovkář"
+    "Teferi"
     "Tom-maska"
     "kajik01"
     "kubajzik"
@@ -7807,6 +7845,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "1v8na"
     "Anemone"
     "Anež"
+    "Anežak"
     "AntiDisco"
     "Aristoteles"
     "Best-Rebel"
@@ -7840,6 +7879,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Nehasil7"
     "Neville"
     "Parníček512"
+    "Patriček2001"
     "Pralinka2"
     "Pribináček1"
     "Pája"
@@ -7847,6 +7887,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Rokio"
     "SVETLO"
     "Snecek"
+    "Sodovkář"
+    "Teferi"
     "ThePumpa"
     "Tom-maska"
     "Viki_show"
