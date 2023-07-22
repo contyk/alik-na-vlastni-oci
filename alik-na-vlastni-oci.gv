@@ -73,6 +73,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Jarda2013";
   "Joana";
   "JojoLady";
+  "Jonatán";
   "JosefNeoral12";
   "July";
   "JÁviÉr";
@@ -110,6 +111,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "MikiRoth";
   "Miky23";
   "MinaHoshi";
+  "Mixxim_SAMI";
   "Mojko";
   "Moništa";
   "Morell";
@@ -402,6 +404,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
   }
   "ALX75" -- {
+    "Bílý-Pegas"
+    "Jonatán"
+    "KEDAR"
+    "Mixxim_SAMI"
+    "Morell"
     "Ouřada"
     "Pralinka2"
     "majacos"
@@ -737,12 +744,17 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
   }
   "Bílý-Pegas" -- {
+    "ALX75"
     "Cat_Lady"
+    "Jonatán"
     "KEDAR"
     "Meville"
+    "Mixxim_SAMI"
+    "Morell"
     "Pralinka2"
     "Teferi"
     "miškahrabalka"
+    "smejky225"
   }
   "CaMiL" -- {
     "Copinka"
@@ -1700,6 +1712,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "vikinka28"
   }
+  "Jonatán" -- {
+    "ALX75"
+    "Bílý-Pegas"
+    "KEDAR"
+    "Mixxim_SAMI"
+    "Morell"
+    "Pralinka2"
+    "smejky225"
+  }
   "JosefNeoral12" -- {
     "Best-Rebel"
     "Bápa"
@@ -1750,6 +1771,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "KEDAR" -- {
     "-ochranka-"
     "993"
+    "ALX75"
     "Alfaromeo33"
     "Anemone"
     "BáraM"
@@ -1758,13 +1780,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Danny15"
     "Deidara-sempai"
     "Flétnička"
+    "Jonatán"
     "KaWaii_GuRi_xD"
     "Lukynekl"
     "Maminka_Treyky"
     "Mari1"
     "Memfis"
     "Meville"
+    "Mixxim_SAMI"
     "Mojko"
+    "Morell"
     "MuDrc_"
     "Neville"
     "Pralinka2"
@@ -1787,6 +1812,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "pes_z_pětipes"
     "red-xiii"
     "resurrection"
+    "smejky225"
     "tanečniceJiřka"
     "zirafka"
     "ČervenkaAla"
@@ -2849,6 +2875,15 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
     "–MM–"
   }
+  "Mixxim_SAMI" -- {
+    "ALX75"
+    "Bílý-Pegas"
+    "Jonatán"
+    "KEDAR"
+    "Morell"
+    "Pralinka2"
+    "smejky225"
+  }
   "Mojko" -- {
     "-PIRAT-"
     "ANDÍLEK2009"
@@ -2929,12 +2964,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "žirafa"
   }
   "Morell" -- {
+    "ALX75"
+    "Bílý-Pegas"
     "CaMiL"
     "Copinka"
     "Ema_P"
     "Gigisuška"
     "Jančulka"
     "Jarda2013"
+    "Jonatán"
+    "KEDAR"
     "KrálíčekSušenka"
     "Lívaneček"
     "Mari1"
@@ -2943,6 +2982,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "MedvidekBonnie"
     "MikiRoth"
     "MinaHoshi"
+    "Mixxim_SAMI"
     "MrTheBest"
     "Ouřada"
     "Penubra_Shade"
@@ -3652,6 +3692,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Jarda2013"
     "Joana"
     "JojoLady"
+    "Jonatán"
     "JosefNeoral12"
     "July"
     "JÁviÉr"
@@ -3687,6 +3728,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "MikiRoth"
     "Miky23"
     "MinaHoshi"
+    "Mixxim_SAMI"
     "Mojko"
     "Moništa"
     "Morell"
@@ -6878,6 +6920,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "1v8na"
     "ALX75"
     "Anež"
+    "Bílý-Pegas"
     "CaMiL"
     "Copinka"
     "ELENSA"
@@ -6889,6 +6932,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Hrony47"
     "Jančulka"
     "Jarda2013"
+    "Jonatán"
+    "KEDAR"
     "KoloJM83"
     "KrálíčekSušenka"
     "KrálíčekZdeni"
@@ -6901,6 +6946,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "MedvidekBonnie"
     "MikiRoth"
     "MinaHoshi"
+    "Mixxim_SAMI"
     "Morell"
     "MrTheBest"
     "MyškaNiky"
