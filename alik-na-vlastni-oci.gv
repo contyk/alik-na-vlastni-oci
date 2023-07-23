@@ -10,7 +10,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   "2003beruska";
   "3vrabcak3";
   "7Nika";
-  "993";
   "ALX75";
   "ANDÍLEK2009";
   "ANINKA2005";
@@ -660,31 +659,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "čičinka55"
     "řidičJiří"
   }
-  "993" -- {
-    "Anemone"
-    "BáraM"
-    "Danny15"
-    "Flétnička"
-    "KEDAR"
-    "KaWaii_GuRi_xD"
-    "Lukynekl"
-    "Maminka_Treyky"
-    "Mari1"
-    "Memfis"
-    "Neville"
-    "Pralinka2"
-    "RychlíkDan"
-    "SOJKA"
-    "ScArW"
-    "Tom-maska"
-    "ahojky009"
-    "kajik01"
-    "karl-franklin"
-    "miškahrabalka"
-    "nehasil7"
-    "tanečniceJiřka"
-    "řidičJiří"
-  }
   "ALX75" -- {
     "Bílý-Pegas"
     "Jonatán"
@@ -918,7 +892,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Anemone" -- {
     "-PIRAT-"
     "1Sojka1"
-    "993"
     "Alexej"
     "Aristoteles"
     "BáraM"
@@ -1252,7 +1225,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "ronaldo88"
   }
   "BáraM" -- {
-    "993"
     "Anemone"
     "Danny15"
     "Flétnička"
@@ -1274,6 +1246,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "miškahrabalka"
     "nehasil7"
     "tanečniceJiřka"
+    "verbum"
     "řidičJiří"
   }
   "Bílý-Pegas" -- {
@@ -1562,7 +1535,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "daddyy"
   }
   "Danny15" -- {
-    "993"
     "Alexej"
     "Anemone"
     "BáraM"
@@ -1587,6 +1559,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "miškahrabalka"
     "nehasil7"
     "tanečniceJiřka"
+    "verbum"
     "řidičJiří"
   }
   "Danrytir123" -- {
@@ -2144,7 +2117,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Flétnička" -- {
     "-ochranka-"
-    "993"
     "Anemone"
     "Bambusinka"
     "BáraM"
@@ -2179,6 +2151,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "nehasil7"
     "red-xiii"
     "tanečniceJiřka"
+    "verbum"
     "zirafka"
     "ČervenkaAla"
     "řidičJiří"
@@ -2850,7 +2823,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "-PIRAT-"
     "-ochranka-"
     "1Sojka1"
-    "993"
     "ALX75"
     "Alfaromeo33"
     "Anda2005"
@@ -2975,7 +2947,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
   }
   "KaWaii_GuRi_xD" -- {
-    "993"
     "Anemone"
     "BáraM"
     "Danny15"
@@ -2997,6 +2968,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "miškahrabalka"
     "nehasil7"
     "tanečniceJiřka"
+    "verbum"
     "řidičJiří"
   }
   "Kabinek" -- {
@@ -3686,7 +3658,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "1vrabcak"
     "2003beruska"
     "3vrabcak3"
-    "993"
     "ANINKA2005"
     "Adamekdimitrov"
     "Alfaromeo33"
@@ -3898,7 +3869,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
   }
   "Maminka_Treyky" -- {
-    "993"
     "Alethea"
     "Alfaromeo33"
     "Anemone"
@@ -3944,6 +3914,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "resurrection"
     "scania4"
     "tanečniceJiřka"
+    "verbum"
     "vikinkaa"
     "čičinka55"
     "řidičJiří"
@@ -3959,7 +3930,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "2003beruska"
     "3vrabcak3"
     "7Nika"
-    "993"
     "ANDÍLEK2009"
     "ANINKA2005"
     "Adamekdimitrov"
@@ -4468,7 +4438,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "Memfis" -- {
-    "993"
     "Anemone"
     "BáraM"
     "Danny15"
@@ -4490,6 +4459,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "miškahrabalka"
     "nehasil7"
     "tanečniceJiřka"
+    "verbum"
     "řidičJiří"
   }
   "Mendinka11" -- {
@@ -5498,7 +5468,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "-ochranka-"
     "1Krtecek1"
     "1Sojka1"
-    "993"
     "Alethea"
     "Alfaromeo33"
     "Amulet"
@@ -6099,7 +6068,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "2003beruska"
     "3vrabcak3"
     "7Nika"
-    "993"
     "ALX75"
     "ANDÍLEK2009"
     "ANINKA2005"
@@ -6919,7 +6887,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   "RychlíkDan" -- {
     "-PIRAT-"
     "-ochranka-"
-    "993"
     "Alfaromeo33"
     "Anemone"
     "Bambusinka"
@@ -6964,6 +6931,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "red-xiii"
     "resurrection"
     "tanečniceJiřka"
+    "verbum"
     "zirafka"
     "ČervenkaAla"
     "řidičJiří"
@@ -7000,7 +6968,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "SOJKA" -- {
     "-PIRAT-"
-    "993"
     "ANDÍLEK2009"
     "Anemone"
     "Aristoteles"
@@ -7172,7 +7139,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "ScArW" -- {
     "-PIRAT-"
-    "993"
     "Alexej"
     "Anemone"
     "Aristoteles"
@@ -7720,7 +7686,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "-PIRAT-"
     "1Krtecek1"
     "1Sojka1"
-    "993"
     "Alfaromeo33"
     "Anda2005"
     "Anemone"
@@ -8474,7 +8439,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "-PIRAT-"
     "-ochranka-"
     "7Nika"
-    "993"
     "Alethea"
     "Alexej"
     "Alfaromeo33"
@@ -9322,7 +9286,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   "kajik01" -- {
     "-PIRAT-"
     "1Sojka1"
-    "993"
     "ANDÍLEK2009"
     "ANINKA2005"
     "Alexej"
@@ -9499,7 +9462,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "karl-franklin" -- {
     "-PIRAT-"
-    "993"
     "Anemone"
     "Anežak"
     "Aristoteles"
@@ -10061,7 +10023,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "-ochranka-"
     "1Krtecek1"
     "1Sojka1"
-    "993"
     "ANINKA2005"
     "Alethea"
     "Alfaromeo33"
@@ -10231,7 +10192,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "1vrabcak"
     "2003beruska"
     "3vrabcak3"
-    "993"
     "ANDÍLEK2009"
     "ANINKA2005"
     "Adamekdimitrov"
@@ -11216,7 +11176,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "1Sojka1"
     "2003beruska"
     "7Nika"
-    "993"
     "ANDÍLEK2009"
     "ANINKA2005"
     "Alethea"
@@ -11527,8 +11486,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Anemone"
     "Aristoteles"
     "Bulda116"
+    "BáraM"
     "CaMiL"
     "Copinka"
+    "Danny15"
     "Danrytir123"
     "Danulinka1010"
     "Denisa"
@@ -11537,6 +11498,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Elibaba"
     "Ema_P"
     "Fezan"
+    "Flétnička"
     "Fífa"
     "Garfíldek12"
     "HLAVNO"
@@ -11551,6 +11513,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Josefka9"
     "KEDAR"
     "KEVIN"
+    "KaWaii_GuRi_xD"
     "Klaarynkaa"
     "Klárkasokolov"
     "Král123"
@@ -11561,10 +11524,12 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Liluina"
     "Lukynekl"
     "Malina123"
+    "Maminka_Treyky"
     "Mari1"
     "Markéta175"
     "Mateas"
     "MedvidekBonnie"
+    "Memfis"
     "Mendinka11"
     "MikiRoth"
     "MinaHoshi"
@@ -11597,6 +11562,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "PrincessTana"
     "Pája"
     "RohlikTV"
+    "RychlíkDan"
     "SOJKA"
     "SVETLO"
     "Sarah"
@@ -12178,7 +12144,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "2003beruska"
     "3vrabcak3"
     "7Nika"
-    "993"
     "ANDÍLEK2009"
     "ANINKA2005"
     "Adamekdimitrov"
