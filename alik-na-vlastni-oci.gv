@@ -193,6 +193,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Petragla";
   "Piki";
   "Piškulín";
+  "PištaHufnágl";
   "Ponník";
   "Prackal";
   "Pralinka2";
@@ -260,6 +261,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "_kebaba_";
   "adamekdimitrov";
   "ahojky009";
+  "aja38";
   "aksile11";
   "aleistera";
   "alenaton";
@@ -1440,6 +1442,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Parníček512"
     "Pavlikkamarad"
     "Penubra_Shade"
+    "PištaHufnágl"
     "Pralinka2"
     "PrasátkoPeppa"
     "Pribináček1"
@@ -1455,6 +1458,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Zdeny1"
     "_BananaCherryNaty_"
     "ahojky009"
+    "aja38"
     "batman-david"
     "bublina2"
     "citronelinka"
@@ -1847,8 +1851,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Miaow"
     "MinaHoshi"
     "Pavlikkamarad"
+    "PištaHufnágl"
     "Pralinka2"
     "ThePumpa"
+    "aja38"
     "majdula2000"
     "on1"
     "tanečniceJiřka"
@@ -4020,6 +4026,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Petr"
     "Petragla"
     "Piškulín"
+    "PištaHufnágl"
     "Ponník"
     "Pralinka2"
     "PrasátkoPeppa"
@@ -4073,6 +4080,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_BananaCherryNaty_"
     "adamekdimitrov"
     "ahojky009"
+    "aja38"
     "alenaton"
     "alinka"
     "anna-8"
@@ -4482,10 +4490,12 @@ graph "Alík na vlastní oči!" { concentrate=true
     "May"
     "MinaHoshi"
     "Pavlikkamarad"
+    "PištaHufnágl"
     "Pralinka2"
     "ScArW"
     "ThePumpa"
     "ahojky009"
+    "aja38"
     "contyk"
     "daddyy"
     "kajik01"
@@ -4609,6 +4619,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Pavlikkamarad"
     "Penubra_Shade"
     "Petragla"
+    "PištaHufnágl"
     "Pralinka2"
     "PrasátkoPeppa"
     "PrincessTana"
@@ -4627,6 +4638,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Vozy"
     "Zelvicka101"
     "adamekdimitrov"
+    "aja38"
     "alinka"
     "arinka2006"
     "asistent"
@@ -5756,8 +5768,10 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Mari1"
     "Miaow"
     "MinaHoshi"
+    "PištaHufnágl"
     "Pralinka2"
     "ThePumpa"
+    "aja38"
     "majdula2000"
     "on1"
     "tanečniceJiřka"
@@ -5922,6 +5936,21 @@ graph "Alík na vlastní oči!" { concentrate=true
     "danrytir"
     "nehasil7"
     "superpaci"
+    "řidičJiří"
+  }
+  "PištaHufnágl" -- {
+    "Copinka"
+    "DžungaráčekChlupáček"
+    "Mari1"
+    "Miaow"
+    "MinaHoshi"
+    "Pavlikkamarad"
+    "Pralinka2"
+    "ThePumpa"
+    "aja38"
+    "majdula2000"
+    "on1"
+    "tanečniceJiřka"
     "řidičJiří"
   }
   "Ponník" -- {
@@ -6149,6 +6178,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Petragla"
     "Piki"
     "Piškulín"
+    "PištaHufnágl"
     "Ponník"
     "Prackal"
     "PrasátkoPeppa"
@@ -6214,6 +6244,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_kebaba_"
     "adamekdimitrov"
     "ahojky009"
+    "aja38"
     "aksile11"
     "aleistera"
     "alenaton"
@@ -7438,6 +7469,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Natrace"
     "Ouřada"
     "Pavlikkamarad"
+    "PištaHufnágl"
     "Pralinka2"
     "PrasátkoPeppa"
     "SVETLO"
@@ -7446,6 +7478,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_Priserka_xD"
     "_kebaba_"
     "ahojky009"
+    "aja38"
     "batman-david"
     "bublina2"
     "citronelinka"
@@ -8368,6 +8401,21 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Šmucler"
     "žirafa"
     "–MM–"
+  }
+  "aja38" -- {
+    "Copinka"
+    "DžungaráčekChlupáček"
+    "Mari1"
+    "Miaow"
+    "MinaHoshi"
+    "Pavlikkamarad"
+    "PištaHufnágl"
+    "Pralinka2"
+    "ThePumpa"
+    "majdula2000"
+    "on1"
+    "tanečniceJiřka"
+    "řidičJiří"
   }
   "aksile11" -- {
     "Anežak"
@@ -9593,6 +9641,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Parníček512"
     "Pavlikkamarad"
     "Penubra_Shade"
+    "PištaHufnágl"
     "Pralinka2"
     "PrasátkoPeppa"
     "Pribináček1"
@@ -9617,6 +9666,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_kebaba_"
     "adamekdimitrov"
     "ahojky009"
+    "aja38"
     "alenaton"
     "alinka"
     "arinka2006"
@@ -10121,6 +10171,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Pavlikkamarad"
     "Penubra_Shade"
     "Petragla"
+    "PištaHufnágl"
     "Pralinka2"
     "PrasátkoPeppa"
     "Pribináček1"
@@ -10142,6 +10193,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Zelvicka101"
     "_BananaCherryNaty_"
     "ahojky009"
+    "aja38"
     "alinka"
     "asistent"
     "batman-david"
@@ -10972,6 +11024,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Penubra_Shade"
     "Petr"
     "Petragla"
+    "PištaHufnágl"
     "Ponník"
     "Pralinka2"
     "PrasátkoPeppa"
@@ -11014,6 +11067,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_BananaCherryNaty_"
     "adamekdimitrov"
     "ahojky009"
+    "aja38"
     "anna-8"
     "arinka2006"
     "batman-david"
@@ -11898,6 +11952,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Petr"
     "Petragla"
     "Piškulín"
+    "PištaHufnágl"
     "Ponník"
     "Pralinka2"
     "PrasátkoPeppa"
@@ -11949,6 +12004,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "_BananaCherryNaty_"
     "adamekdimitrov"
     "ahojky009"
+    "aja38"
     "anna-8"
     "arinka2006"
     "batman-david"
