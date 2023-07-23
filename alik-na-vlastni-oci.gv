@@ -82,7 +82,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Fillipino";
   "Flétnička";
   "FuFuF";
-  "GARFÍLDEK12";
   "GEORGE4";
   "GORAM";
   "Garfíldek12";
@@ -2176,28 +2175,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "on1"
     "–MM–"
   }
-  "GARFÍLDEK12" -- {
-    "HLAVNO"
-    "Josefka9"
-    "Mari1"
-    "Mateas"
-    "MinaHoshi"
-    "Natrace"
-    "Ouřada"
-    "PEJSKOVKA"
-    "Pralinka2"
-    "SVETLO"
-    "gabcahu1"
-    "kajik01"
-    "nehasil7"
-    "on1"
-    "verbum"
-    "vikca09"
-    "vrabcak5"
-    "vrabcak7"
-    "řidičJiří"
-    "–MM–"
-  }
   "GEORGE4" -- {
     "**Beruška**"
     "Bahsis"
@@ -2233,16 +2210,32 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Garfíldek12" -- {
     "Best-Rebel"
     "Bápa"
+    "HLAVNO"
     "JosefNeoral12"
+    "Josefka9"
+    "Mari1"
     "Mateas"
+    "MinaHoshi"
+    "Natrace"
+    "Ouřada"
+    "PEJSKOVKA"
     "Pralinka2"
     "SVETLO"
     "ThePumpa"
     "_Priserka_xD"
     "_kebaba_"
     "gabcahu1"
+    "kajik01"
     "majdula2000"
+    "nehasil7"
+    "on1"
     "ronaldo88"
+    "verbum"
+    "vikca09"
+    "vrabcak5"
+    "vrabcak7"
+    "řidičJiří"
+    "–MM–"
   }
   "Gigisuška" -- {
     "CaMiL"
@@ -2276,7 +2269,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "HLAVNO" -- {
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "Josefka9"
     "Mari1"
     "Mateas"
@@ -2705,7 +2698,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "vikinka28"
   }
   "Josefka9" -- {
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Mari1"
     "Mateas"
@@ -3880,7 +3873,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Faruk"
     "Fezan"
     "Flétnička"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Hanička68"
     "Honza"
@@ -4154,7 +4147,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "DollDeny"
     "Elibaba"
     "FuFuF"
-    "GARFÍLDEK12"
     "Garfíldek12"
     "Gigisuška"
     "HLAVNO"
@@ -4503,7 +4495,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "DžungaráčekChlupáček"
     "Elibaba"
     "FuFuF"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "Gigisuška"
     "HLAVNO"
     "Hrony47"
@@ -5252,7 +5244,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Natrace" -- {
     "Copinka"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Josefka9"
     "Mari1"
@@ -5475,7 +5467,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Ema_P"
     "Fillipino"
     "FuFuF"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "Gigisuška"
     "HLAVNO"
     "Hrony47"
@@ -5563,7 +5555,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "PEJSKOVKA" -- {
     "Danrytir123"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Josefka9"
     "Kšunt123"
@@ -5961,7 +5953,6 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Fillipino"
     "Flétnička"
     "FuFuF"
-    "GARFÍLDEK12"
     "GEORGE4"
     "GORAM"
     "Garfíldek12"
@@ -6834,7 +6825,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   "SVETLO" -- {
     "Best-Rebel"
     "Bápa"
-    "GARFÍLDEK12"
     "Garfíldek12"
     "HLAVNO"
     "JosefNeoral12"
@@ -8888,7 +8878,6 @@ graph "Alík na vlastní oči!" { concentrate=true
   "gabcahu1" -- {
     "Best-Rebel"
     "Bápa"
-    "GARFÍLDEK12"
     "Garfíldek12"
     "HLAVNO"
     "JosefNeoral12"
@@ -8952,7 +8941,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Eninka1"
     "Fezan"
     "Flétnička"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Honza"
     "Honzík"
@@ -9832,8 +9821,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Eninka1"
     "Fezan"
     "Flétnička"
-    "GARFÍLDEK12"
     "GORAM"
+    "Garfíldek12"
     "HLAVNO"
     "Honza"
     "Honzík"
@@ -9964,7 +9953,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Faolis"
     "Fillipino"
     "FuFuF"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "Gigisuška"
     "HLAVNO"
     "Hrony47"
@@ -11064,7 +11053,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Elibaba"
     "Ema_P"
     "Fezan"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Honza"
     "Honzík"
@@ -11185,7 +11174,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "vikca09" -- {
     "ANDÍLEK2009"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Josefka9"
     "Komárek941"
@@ -11396,7 +11385,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "vrabcak5" -- {
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Josefka9"
     "Mari1"
@@ -11422,7 +11411,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Copinka"
     "Drsticka"
     "Elibaba"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Hrony47"
     "Josefka9"
@@ -11686,7 +11675,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Faruk"
     "Fezan"
     "Flétnička"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "HLAVNO"
     "Hanička68"
     "Honza"
@@ -11964,7 +11953,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "FanUnikitty"
     "Fillipino"
     "FuFuF"
-    "GARFÍLDEK12"
+    "Garfíldek12"
     "Gigisuška"
     "HLAVNO"
     "Hrony47"
