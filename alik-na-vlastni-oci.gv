@@ -42,7 +42,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Bulda116";
   "Bápa";
   "BáraM";
-  "Bílý-Pegas";
+  "Bílý-pegas";
   "CaMiL";
   "Cat_Lady";
   "Chestra";
@@ -154,6 +154,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "MinaHoshi";
   "Miskagapa";
   "Mixxim_SAMI";
+  "MoOnShiNe";
   "Mojko";
   "Moništa";
   "MonkyČonky";
@@ -296,6 +297,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "krejdom";
   "kubajzik";
   "lemro";
+  "lesumir";
   "levíček14";
   "lékařský";
   "majacos";
@@ -693,7 +695,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
   }
   "ALX75" -- {
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "Jonatán"
     "KEDAR"
     "Mixxim_SAMI"
@@ -1283,16 +1285,19 @@ graph "Alík na vlastní oči!" { concentrate=true
     "verbum"
     "řidičJiří"
   }
-  "Bílý-Pegas" -- {
+  "Bílý-pegas" -- {
     "ALX75"
     "Cat_Lady"
     "Jonatán"
     "KEDAR"
     "Meville"
     "Mixxim_SAMI"
+    "MoOnShiNe"
     "Morell"
     "Pralinka2"
     "Teferi"
+    "contyk"
+    "lesumir"
     "miškahrabalka"
     "smejky225"
   }
@@ -1347,7 +1352,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Cat_Lady" -- {
     "Alethea"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "Danulínka"
     "Hanička68"
     "KEDAR"
@@ -2754,7 +2759,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Jonatán" -- {
     "ALX75"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "KEDAR"
     "Mixxim_SAMI"
     "Morell"
@@ -2824,7 +2829,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Anemone"
     "Aristoteles"
     "BáraM"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "Cat_Lady"
     "Danny15"
     "Danulinka1010"
@@ -4496,7 +4501,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "řidičJiří"
   }
   "Meville" -- {
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "Cat_Lady"
     "KEDAR"
     "Pralinka2"
@@ -4723,12 +4728,17 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Mixxim_SAMI" -- {
     "ALX75"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "Jonatán"
     "KEDAR"
     "Morell"
     "Pralinka2"
     "smejky225"
+  }
+  "MoOnShiNe" -- {
+    "Bílý-pegas"
+    "contyk"
+    "lesumir"
   }
   "Mojko" -- {
     "-PIRAT-"
@@ -4871,7 +4881,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "Morell" -- {
     "ALX75"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "CaMiL"
     "Copinka"
     "Ema_P"
@@ -6136,7 +6146,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Bulda116"
     "Bápa"
     "BáraM"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "CaMiL"
     "Cat_Lady"
     "Chestra"
@@ -7423,7 +7433,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Teferi" -- {
     "Anemone"
     "Anežak"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "Cat_Lady"
     "DollDeny"
     "KEDAR"
@@ -9034,15 +9044,18 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "contyk" -- {
     "Anemone"
+    "Bílý-pegas"
     "Dudra"
     "KEDAR"
     "Lajka01"
     "Mateas"
     "May"
     "Miaow"
+    "MoOnShiNe"
     "Neville"
     "Pralinka2"
     "Teferi"
+    "lesumir"
     "miškahrabalka"
   }
   "crashinthedark" -- {
@@ -9636,6 +9649,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "kamarádíček"
     "pamela"
   }
+  "lesumir" -- {
+    "Bílý-pegas"
+    "MoOnShiNe"
+    "contyk"
+  }
   "levíček14" -- {
     "-ochranka-"
     "Flétnička"
@@ -10007,7 +10025,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Anemone"
     "Bulda116"
     "BáraM"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "Cat_Lady"
     "DARTPUNK"
     "Danny15"
@@ -10943,7 +10961,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Anemone"
     "Anež"
     "Aristoteles"
-    "Bílý-Pegas"
+    "Bílý-pegas"
     "CaMiL"
     "Copinka"
     "Danulinka1010"
