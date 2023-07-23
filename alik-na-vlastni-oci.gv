@@ -149,6 +149,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Morell";
   "MrTheBest";
   "MuDrc_";
+  "MumiePetra";
   "Muňka";
   "Mysinek1";
   "Myšell";
@@ -156,6 +157,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "Májuška96";
   "Nandyn";
   "Napalmdeath";
+  "Nataliekr";
   "Natalí2005";
   "Natrace";
   "Nehasil7";
@@ -664,6 +666,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Lukynekl"
     "Mari1"
     "Mojko"
+    "MumiePetra"
+    "Nataliekr"
     "Ponník"
     "Pralinka2"
     "Tlamka1"
@@ -676,6 +680,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "sharizka"
     "tanečniceJiřka"
     "vrabcak1"
+    "vrabcak2"
+    "vrabcak7"
     "řidičJiří"
   }
   "AdriankaRůže" -- {
@@ -1619,6 +1625,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Markéta175"
     "Miskagapa"
     "Mojko"
+    "MumiePetra"
+    "Nataliekr"
     "Natalí2005"
     "Ponník"
     "Pralinka2"
@@ -1639,6 +1647,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "tatárek105"
     "verbum"
     "vrabcak1"
+    "vrabcak2"
+    "vrabcak7"
     "řidičJiří"
   }
   "Dudra" -- {
@@ -2723,9 +2733,11 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Mendinka11"
     "Miskagapa"
     "Mojko"
+    "MumiePetra"
     "Muňka"
     "Mysinek1"
     "Nandyn"
+    "Nataliekr"
     "Natalí2005"
     "Nehasil7"
     "Neville"
@@ -2763,6 +2775,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "tatárek105"
     "verbum"
     "vrabcak1"
+    "vrabcak2"
+    "vrabcak7"
     "řidičJiří"
   }
   "Klárkasokolov" -- {
@@ -2784,6 +2798,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Markéta175"
     "Miskagapa"
     "Mojko"
+    "MumiePetra"
+    "Nataliekr"
     "Natalí2005"
     "Ponník"
     "Pralinka2"
@@ -2805,6 +2821,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "tatárek105"
     "verbum"
     "vrabcak1"
+    "vrabcak2"
+    "vrabcak7"
     "řidičJiří"
   }
   "KoloJM83" -- {
@@ -3540,12 +3558,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Morell"
     "MrTheBest"
     "MuDrc_"
+    "MumiePetra"
     "Muňka"
     "Mysinek1"
     "Myšell"
     "MyškaNiky"
     "Májuška96"
     "Nandyn"
+    "Nataliekr"
     "Natalí2005"
     "Natrace"
     "Nehasil7"
@@ -4216,6 +4236,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Mendinka11"
     "MinaHoshi"
     "MuDrc_"
+    "MumiePetra"
+    "Nataliekr"
     "Neville"
     "Ouřada"
     "Peksik"
@@ -4261,6 +4283,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "verbum"
     "vikca09"
     "vrabcak1"
+    "vrabcak2"
+    "vrabcak7"
     "zombak21"
     "ČervenkaAla"
     "řidičJiří"
@@ -4457,6 +4481,21 @@ graph "Alík na vlastní oči!" { concentrate=true
     "čičinka55"
     "řidičJiří"
   }
+  "MumiePetra" -- {
+    "ANINKA2005"
+    "Drsticka"
+    "Klaarynkaa"
+    "Klárkasokolov"
+    "Mari1"
+    "Mojko"
+    "Nataliekr"
+    "Pralinka2"
+    "kajik01"
+    "tanečniceJiřka"
+    "vrabcak2"
+    "vrabcak7"
+    "řidičJiří"
+  }
   "Muňka" -- {
     "1Sojka1"
     "Anemone"
@@ -4641,6 +4680,21 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Riftwalker"
     "krejdom"
     "nehasil7"
+  }
+  "Nataliekr" -- {
+    "ANINKA2005"
+    "Drsticka"
+    "Klaarynkaa"
+    "Klárkasokolov"
+    "Mari1"
+    "Mojko"
+    "MumiePetra"
+    "Pralinka2"
+    "kajik01"
+    "tanečniceJiřka"
+    "vrabcak2"
+    "vrabcak7"
+    "řidičJiří"
   }
   "Natalí2005" -- {
     "-PIRAT-"
@@ -5347,6 +5401,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Morell"
     "MrTheBest"
     "MuDrc_"
+    "MumiePetra"
     "Muňka"
     "Mysinek1"
     "Myšell"
@@ -5354,6 +5409,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Májuška96"
     "Nandyn"
     "Napalmdeath"
+    "Nataliekr"
     "Natalí2005"
     "Natrace"
     "Nehasil7"
@@ -8052,10 +8108,12 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Mojko"
     "Morell"
     "MrTheBest"
+    "MumiePetra"
     "Muňka"
     "MyškaNiky"
     "Májuška96"
     "Nandyn"
+    "Nataliekr"
     "Natrace"
     "Nehasil7"
     "Neville"
@@ -9735,12 +9793,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Morell"
     "MrTheBest"
     "MuDrc_"
+    "MumiePetra"
     "Muňka"
     "Mysinek1"
     "Myšell"
     "MyškaNiky"
     "Májuška96"
     "Nandyn"
+    "Nataliekr"
     "Natrace"
     "Nehasil7"
     "Neville"
@@ -10209,16 +10269,23 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "vrabcak2" -- {
+    "ANINKA2005"
     "Copinka"
+    "Drsticka"
     "Elibaba"
     "Hrony47"
+    "Klaarynkaa"
+    "Klárkasokolov"
     "KubíkVenom"
     "Mari1"
     "Mateas"
     "MedvidekBonnie"
     "MinaHoshi"
+    "Mojko"
     "MrTheBest"
+    "MumiePetra"
     "MyškaNiky"
+    "Nataliekr"
     "Ouřada"
     "Pralinka2"
     "PrasátkoPeppa"
@@ -10240,16 +10307,23 @@ graph "Alík na vlastní oči!" { concentrate=true
     "–MM–"
   }
   "vrabcak7" -- {
+    "ANINKA2005"
     "Copinka"
+    "Drsticka"
     "Elibaba"
     "Hrony47"
+    "Klaarynkaa"
+    "Klárkasokolov"
     "KubíkVenom"
     "Mari1"
     "Mateas"
     "MedvidekBonnie"
     "MinaHoshi"
+    "Mojko"
     "MrTheBest"
+    "MumiePetra"
     "MyškaNiky"
+    "Nataliekr"
     "Ouřada"
     "Pralinka2"
     "PrasátkoPeppa"
@@ -10526,12 +10600,14 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Morell"
     "MrTheBest"
     "MuDrc_"
+    "MumiePetra"
     "Muňka"
     "Mysinek1"
     "Myšell"
     "MyškaNiky"
     "Májuška96"
     "Nandyn"
+    "Nataliekr"
     "Natrace"
     "Nehasil7"
     "NemrtváMrtvá"
