@@ -105,6 +105,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "JojoLady";
   "Jonatán";
   "JosefNeoral12";
+  "JosefNeoral2";
   "Josefka9";
   "July";
   "JÁviÉr";
@@ -2515,6 +2516,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Faolis"
     "JojoLady"
     "JosefNeoral12"
+    "JosefNeoral2"
     "Komárek941"
     "KubíkVenom"
     "Mari1"
@@ -2736,6 +2738,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   }
   "JojoLady" -- {
     "Héfaistos"
+    "JosefNeoral2"
     "Pralinka2"
     "VeverkaČiperka123"
     "VikiKlára"
@@ -2777,6 +2780,16 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "ronaldo88"
     "verbum"
+    "vikinka28"
+  }
+  "JosefNeoral2" -- {
+    "Héfaistos"
+    "JojoLady"
+    "Pralinka2"
+    "VeverkaČiperka123"
+    "VikiKlára"
+    "lékařský"
+    "majdula2000"
     "vikinka28"
   }
   "Josefka9" -- {
@@ -6178,6 +6191,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "JojoLady"
     "Jonatán"
     "JosefNeoral12"
+    "JosefNeoral2"
     "Josefka9"
     "July"
     "JÁviÉr"
@@ -8003,6 +8017,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Daisynka"
     "Héfaistos"
     "JojoLady"
+    "JosefNeoral2"
     "KrálíčekSušenka"
     "MedvidekBonnie"
     "Pralinka2"
@@ -8046,6 +8061,7 @@ graph "Alík na vlastní oči!" { concentrate=true
   "VikiKlára" -- {
     "Héfaistos"
     "JojoLady"
+    "JosefNeoral2"
     "Pralinka2"
     "VeverkaČiperka123"
     "lékařský"
@@ -9738,6 +9754,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Jančulka"
     "Jarda2013"
     "JojoLady"
+    "JosefNeoral2"
     "JÁviÉr"
     "KoloJM83"
     "KrálíčekSušenka"
@@ -9851,6 +9868,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Jarda2013"
     "JojoLady"
     "JosefNeoral12"
+    "JosefNeoral2"
     "JÁviÉr"
     "KoloJM83"
     "Komárek941"
@@ -11722,6 +11740,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Héfaistos"
     "JojoLady"
     "JosefNeoral12"
+    "JosefNeoral2"
     "KoloJM83"
     "Mari1"
     "MrTheBest"
