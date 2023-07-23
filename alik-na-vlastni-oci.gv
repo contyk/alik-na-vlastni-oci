@@ -2069,6 +2069,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "panglaq"
     "smejky225"
+    "tanečniceJiřka"
+    "řidičJiří"
     "–MM–"
   }
   "Faolis" -- {
@@ -6727,7 +6729,9 @@ graph "Alík na vlastní oči!" { concentrate=true
     "on1"
     "panglaq"
     "smejky225"
+    "tanečniceJiřka"
     "vaiva"
+    "řidičJiří"
     "–MM–"
   }
   "Radkaa" -- {
@@ -6844,7 +6848,9 @@ graph "Alík na vlastní oči!" { concentrate=true
     "panglaq"
     "ronaldo88"
     "smejky225"
+    "tanečniceJiřka"
     "vaiva"
+    "řidičJiří"
     "–MM–"
   }
   "Riftwalker" -- {
@@ -8623,6 +8629,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "panglaq"
     "smejky225"
+    "tanečniceJiřka"
+    "řidičJiří"
     "–MM–"
   }
   "alinka" -- {
@@ -8660,7 +8668,9 @@ graph "Alík na vlastní oči!" { concentrate=true
     "on1"
     "panglaq"
     "smejky225"
+    "tanečniceJiřka"
     "vaiva"
+    "řidičJiří"
     "–MM–"
   }
   "anna-8" -- {
@@ -9080,6 +9090,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "majdula2000"
     "panglaq"
     "smejky225"
+    "tanečniceJiřka"
+    "řidičJiří"
     "–MM–"
   }
   "contyk" -- {
@@ -10510,6 +10522,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "lékařský"
     "majdula2000"
     "smejky225"
+    "tanečniceJiřka"
+    "řidičJiří"
     "–MM–"
   }
   "pes_z_pětipes" -- {
@@ -11229,6 +11243,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Elibaba"
     "Ema_P"
     "Eninka1"
+    "FanUnikitty"
     "Faolis"
     "Faruk"
     "Flétnička"
@@ -11305,7 +11320,9 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Ptáček0505"
     "Pája"
     "Pájule"
+    "Radek_"
     "Radkaa"
+    "Rex999"
     "RohlikTV"
     "RychlíkDan"
     "SHAKIRA007"
@@ -11339,6 +11356,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "adamekdimitrov"
     "ahojky009"
     "aja38"
+    "alenaton"
+    "alinka"
     "anna-8"
     "arinka2006"
     "batman-david"
@@ -11348,6 +11367,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "chameleon10"
     "citronelinka"
     "come_on_bby"
+    "comoara"
     "crashinthedark"
     "danrytir"
     "her"
@@ -11365,6 +11385,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "myslav1"
     "nehasil7"
     "on1"
+    "panglaq"
     "pes_z_pětipes"
     "pipiši"
     "primakaja"
@@ -12189,6 +12210,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Ema_P"
     "Eninka1"
     "F.Angela"
+    "FanUnikitty"
     "Faolis"
     "Faruk"
     "Fezan"
@@ -12276,7 +12298,9 @@ graph "Alík na vlastní oči!" { concentrate=true
     "Ptáček0505"
     "Pája"
     "Pájule"
+    "Radek_"
     "Radkaa"
+    "Rex999"
     "RohlikTV"
     "RychlíkDan"
     "SHAKIRA007"
@@ -12319,6 +12343,8 @@ graph "Alík na vlastní oči!" { concentrate=true
     "adamekdimitrov"
     "ahojky009"
     "aja38"
+    "alenaton"
+    "alinka"
     "anna-8"
     "arinka2006"
     "batman-david"
@@ -12328,6 +12354,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "chameleon10"
     "citronelinka"
     "come_on_bby"
+    "comoara"
     "crashinthedark"
     "danrytir"
     "eliskareiss"
@@ -12347,6 +12374,7 @@ graph "Alík na vlastní oči!" { concentrate=true
     "myslav1"
     "nehasil7"
     "on1"
+    "panglaq"
     "pes_z_pětipes"
     "pipiši"
     "primakaja"
